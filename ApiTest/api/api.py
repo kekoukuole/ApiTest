@@ -1,8 +1,5 @@
-from core.api_util import get_mobile_belong
-from core.rest_client import get
+from core.api_util import api_util
 
 def mobile_query(param):
-    r = get_mobile_belong(params=param)
-    print(r.status_code)
-    result = r.json()
-    return result
+    response = api_util.get_mobile_belong(params=param)
+    return response.json()
