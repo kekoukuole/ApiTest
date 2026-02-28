@@ -1,0 +1,48 @@
+person:
+  name: 北京-${random_name()}-测试
+  age:  ${age()}
+  sex:  男
+
+person2:
+  - name: 北京-${random_name()}-测试
+    age:  ${age()}
+    sex:  男
+
+hero:
+  name: 安其拉
+  word: 火焰是我最喜欢的玩具
+  hp: 448.3
+
+heros_name:
+  - 安其拉
+  - 黄忠
+  - 小乔
+
+heros:
+  - name: 黄忠
+    word: 来自炮火的轰鸣
+    hp: 444
+
+heros_name_list:
+  - - 安其拉
+    - 黄忠
+    - 小乔
+
+test:
+  name: login_case1
+  request:
+    url:  http://x.x.x.x/api/vi/login/
+    method: POST
+    headers:
+      Content-Type: application/json
+    json:
+      username: test
+      password: 123456
+
+mobile_belong:
+  appkey: 0c818521d38759e1
+  shouji: 13456755448
+
+mobile_belong_2:
+  - - 0c818521d38759e1
+    - 13456755448
