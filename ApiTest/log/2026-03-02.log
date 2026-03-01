@@ -1,0 +1,28 @@
+[2026-03-02 00:03:13,552][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 00:03:13,554][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 00:03:13,554][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 00:03:13,554][rest_client.py 21][INFO]: 接口请求参数>>>{'json': {'title': 'foo', 'body': 'bar', 'userId': 1}}['json']
+[2026-03-02 00:06:23,245][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 00:06:23,252][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 00:06:23,253][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 00:06:23,253][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 00:06:47,442][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 00:06:47,449][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 00:06:47,450][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 00:06:47,450][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 00:11:43,047][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 00:11:43,049][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 00:11:43,049][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 00:11:43,049][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 00:17:43,260][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 00:17:43,267][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 00:17:43,267][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 00:17:43,268][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 00:20:17,814][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 00:20:17,815][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 00:20:17,815][rest_client.py 20][INFO]: 接口请求方法>>>post
+[2026-03-02 00:20:17,815][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 00:22:10,499][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 00:22:10,501][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 00:22:10,501][rest_client.py 20][INFO]: 接口请求方法>>>post
+[2026-03-02 00:22:10,501][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
