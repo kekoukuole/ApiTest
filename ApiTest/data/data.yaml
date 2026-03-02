@@ -43,6 +43,13 @@ mobile_belong:
   appkey: 0c818521d38759e1
   shouji: 13456755448
 
+mobile_belong_dynamic:
+  params:
+    appkey: 0c818521d38759e1
+    shouji: 13456755448
+  title:  测试手机号属地title-动态
+  story:  测试手机号属地story-动态
+
 mobile_belong_2:
   - - 0c818521d38759e1
     - 13456755448

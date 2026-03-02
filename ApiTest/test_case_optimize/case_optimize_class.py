@@ -1,0 +1,10 @@
+from api.api import mobile_query
+from utils.read import base_data
+
+url = base_data.read_ini()["host"]["api_sit_url"]
+def test_mobile():
+    param = base_data.read_data()["mobile_belong"]
+    result = mobile_query(param)
+    assert result.body["status"] == 0
+    assert result.body["msg"] == "ok"
+    assert result.body["result"]["shouji"] == "13456755448"
