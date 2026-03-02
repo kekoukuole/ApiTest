@@ -26,3 +26,161 @@
 [2026-03-02 00:22:10,501][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
 [2026-03-02 00:22:10,501][rest_client.py 20][INFO]: 接口请求方法>>>post
 [2026-03-02 00:22:10,501][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 09:29:31,644][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 09:29:31,650][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 09:29:31,650][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 09:29:31,650][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 09:34:36,348][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 09:34:36,358][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 09:34:36,358][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 09:35:16,556][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 09:35:37,972][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 09:35:37,977][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 09:35:37,977][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 09:35:37,977][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 09:36:16,200][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 09:36:16,222][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 09:36:16,223][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 09:36:16,223][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 09:37:51,657][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 09:37:51,677][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 09:37:51,678][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 09:37:51,678][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 09:43:16,385][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 11:46:25,008][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 11:46:25,037][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 11:46:25,037][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 11:46:25,037][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 11:52:39,467][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 11:52:58,308][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 11:52:58,311][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 11:52:58,315][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 11:54:02,635][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 11:54:13,740][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 11:54:13,750][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 11:54:13,755][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 11:56:29,755][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 11:56:39,861][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 11:56:39,864][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 11:56:39,866][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 12:02:29,282][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 12:02:29,288][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 12:02:29,289][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 12:02:29,289][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 12:25:50,416][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 12:25:50,421][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 12:25:50,421][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 12:25:50,421][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 12:31:22,005][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 12:31:22,006][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 12:40:58,138][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 12:41:27,968][rest_client.py 19][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 12:41:27,982][rest_client.py 20][INFO]: 接口请求方法>>>POST
+[2026-03-02 12:41:27,985][rest_client.py 21][INFO]: 接口请求参数>>>{'title': 'foo', 'body': 'bar', 'userId': 1}
+[2026-03-02 12:46:49,719][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 12:47:09,552][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 12:47:09,558][rest_client.py 21][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 12:47:09,558][rest_client.py 22][INFO]: 接口请求方法>>>POST
+[2026-03-02 12:47:09,558][rest_client.py 23][INFO]: 接口请求参数>>>{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2026-03-02 12:48:25,846][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 12:48:25,855][rest_client.py 21][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 12:48:25,855][rest_client.py 22][INFO]: 接口请求方法>>>POST
+[2026-03-02 12:48:25,855][rest_client.py 23][INFO]: 接口请求参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2026-03-02 13:22:11,390][rest_client.py 42][INFO]: 接口请求地址>>>http://sellshop.5istudy.online/sell/shouji/query
+[2026-03-02 13:22:11,391][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-02 13:22:11,391][rest_client.py 49][INFO]: 接口请求params参数>>>
+{
+  "appkey": "0c818521d38759e1",
+  "shouji": 13456755448
+}
+[2026-03-02 13:22:39,416][rest_client.py 42][INFO]: 接口请求地址>>>http://sellshop.5istudy.online/sell/shouji/query
+[2026-03-02 13:22:39,417][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-02 13:22:39,417][rest_client.py 49][INFO]: 接口请求params参数>>>
+{
+  "appkey": "0c818521d38759e1",
+  "shouji": 13456755448
+}
+[2026-03-02 13:26:25,474][rest_client.py 42][INFO]: 接口请求地址>>>http://sellshop.5istudy.online/sell/shouji/query
+[2026-03-02 13:26:25,475][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-02 13:26:25,476][rest_client.py 49][INFO]: 接口请求params参数>>>
+{
+  "appkey": "0c818521d38759e1",
+  "shouji": 13456755448
+}
+[2026-03-02 13:31:56,948][test_post.py 7][INFO]: 开始执行test_post方法
+[2026-03-02 13:45:10,403][rest_client.py 42][INFO]: 接口请求地址>>>http://sellshop.5istudy.online/sell/shouji/query
+[2026-03-02 13:45:10,404][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-02 13:45:10,404][rest_client.py 49][INFO]: 接口请求params参数>>>
+{
+  "appkey": "0c818521d38759e1",
+  "shouji": 13456755448
+}
+[2026-03-02 14:05:54,952][conftest.py 6][INFO]: 开始执行测试用例
+[2026-03-02 14:05:54,959][rest_client.py 42][INFO]: 接口请求地址>>>https://jsonplaceholder.typicode.com/posts
+[2026-03-02 14:05:54,959][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-02 14:05:54,959][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "title": "foo",
+  "body": "bar",
+  "userId": 1
+}
+[2026-03-02 14:05:56,312][conftest.py 8][INFO]: 测试用例执行完毕
+[2026-03-02 15:29:01,734][conftest.py 6][INFO]: 开始执行测试用例
+[2026-03-02 15:29:01,740][rest_client.py 42][INFO]: 接口请求地址>>>http://sellshop.5istudy.online/sell/shouji/query
+[2026-03-02 15:29:01,740][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-02 15:29:01,740][rest_client.py 49][INFO]: 接口请求params参数>>>
+{
+  "appkey": "0c818521d38759e1",
+  "shouji": 13456755448
+}
+[2026-03-02 15:29:02,201][api.py 8][INFO]: 接口返回内容>>>{"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "\u5317\u4eac", "city": "\u5317\u4eac", "company": "\u4e2d\u56fd\u79fb\u52a8", "areacode": "0571"}}
+[2026-03-02 15:29:02,202][conftest.py 8][INFO]: 测试用例执行完毕
+[2026-03-02 15:30:39,652][conftest.py 6][INFO]: 开始执行测试用例
+[2026-03-02 15:30:39,657][rest_client.py 42][INFO]: 接口请求地址>>>http://sellshop.5istudy.online/sell/shouji/query
+[2026-03-02 15:30:39,657][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-02 15:30:39,657][rest_client.py 49][INFO]: 接口请求params参数>>>
+{
+  "appkey": "0c818521d38759e1",
+  "shouji": 13456755448
+}
+[2026-03-02 15:30:39,738][api.py 8][INFO]: 接口返回内容>>>{"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "北京", "city": "北京", "company": "中国移动", "areacode": "0571"}}
+[2026-03-02 15:30:39,740][conftest.py 8][INFO]: 测试用例执行完毕
+[2026-03-02 16:17:00,021][conftest.py 6][INFO]: 开始执行测试用例
+[2026-03-02 16:17:00,031][rest_client.py 42][INFO]: 接口请求地址>>>http://sellshop.5istudy.online/sell/shouji/query
+[2026-03-02 16:17:00,032][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-02 16:17:00,033][rest_client.py 49][INFO]: 接口请求params参数>>>
+{
+  "appkey": "0c818521d38759e1",
+  "shouji": 13456755448
+}
+[2026-03-02 16:17:00,482][response_util.py 7][INFO]: 接口返回内容>>>{"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "北京", "city": "北京", "company": "中国移动", "areacode": "0571"}}
+[2026-03-02 16:17:00,483][conftest.py 8][INFO]: 测试用例执行完毕
+[2026-03-02 17:20:46,045][conftest.py 6][INFO]: 开始执行测试用例
+[2026-03-02 17:20:46,052][rest_client.py 42][INFO]: 接口请求地址>>>http://sellshop.5istudy.online/sell/shouji/query
+[2026-03-02 17:20:46,052][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-02 17:20:46,052][rest_client.py 49][INFO]: 接口请求params参数>>>
+{
+  "appkey": "0c818521d38759e1",
+  "shouji": 13456755448
+}
+[2026-03-02 17:20:46,478][response_util.py 11][INFO]: 接口返回内容>>>{"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "北京", "city": "北京", "company": "中国移动", "areacode": "0571"}}
+[2026-03-02 17:20:46,480][conftest.py 8][INFO]: 测试用例执行完毕
+[2026-03-02 17:22:15,424][conftest.py 6][INFO]: 开始执行测试用例
+[2026-03-02 17:22:15,429][rest_client.py 42][INFO]: 接口请求地址>>>http://sellshop.5istudy.online/sell/shouji/query
+[2026-03-02 17:22:15,429][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-02 17:22:15,429][rest_client.py 49][INFO]: 接口请求params参数>>>
+{
+  "appkey": "0c818521d38759e1",
+  "shouji": 13456755448
+}
+[2026-03-02 17:22:15,587][response_util.py 10][INFO]: 接口返回内容>>>{"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "北京", "city": "北京", "company": "中国移动", "areacode": "0571"}}
+[2026-03-02 17:22:15,589][conftest.py 8][INFO]: 测试用例执行完毕
