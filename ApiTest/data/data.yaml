@@ -54,4 +54,7 @@ mobile_belong_2:
   - - 0c818521d38759e1
     - 13456755448
 
-json_data: { title: foo,body: bar,userId: 1 }
+json_data: { title: foo,body: bar,userId: 1}
+
+test_register:
+  mobile: 15000000000

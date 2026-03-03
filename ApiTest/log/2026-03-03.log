@@ -18,3 +18,13 @@
 }
 [2026-03-03 00:02:28,655][response_util.py 10][INFO]: 接口返回内容>>>{"status": 0, "msg": "ok", "result": {"shouji": "13456755448", "province": "北京", "city": "北京", "company": "中国移动", "areacode": "0571"}}
 [2026-03-03 00:02:28,656][conftest.py 8][INFO]: 测试用例执行完毕
+[2026-03-03 15:20:44,272][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/code/
+[2026-03-03 15:20:44,273][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 15:20:44,273][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "mobile": 15000000000
+}
+[2026-03-03 15:20:47,291][response_util.py 10][INFO]: 接口返回内容>>>{"mobile": "15000000000"}
+[2026-03-03 16:58:21,931][mysql_util.py 28][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = 15000000000 order by id desc limit 1
+[2026-03-03 16:59:24,345][mysql_util.py 28][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = 15000000000 order by id desc limit 1
+[2026-03-03 17:25:13,727][mysql_util.py 28][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = 15000000000 order by id desc limit 1

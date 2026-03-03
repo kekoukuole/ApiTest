@@ -11,6 +11,9 @@ class Api(RestClient):
     def post_data(self, **kwargs):
         return self.post("/posts", **kwargs)
 
+    def get_code(self, **kwargs):
+        return self.post("/code/", **kwargs)
+
 
 
 api_util = Api()
