@@ -24,12 +24,21 @@ class MysqlDb:
         self.cur.close()
         self.conn.close()
 
+    #查询一条数据
+    def select_db_one(self,sql):
+        logger.info(f"执行sql:{sql}")
+        self.cur.execute(sql)
+        #获取数据
+        return self.cur.fetchone()
+
+    #查询多条数据
     def select_db(self,sql):
         logger.info(f"执行sql:{sql}")
         self.cur.execute(sql)
         #获取数据
         return self.cur.fetchall()
 
+    #执行sql
     def execute_db(self,sql):
         try:
             logger.info(f"执行sql:{sql}")
@@ -37,6 +46,8 @@ class MysqlDb:
             self.conn.commit()
         except Exception as e:
             logger.info("执行sql出错{}".format(e))
+
+db = MysqlDb()
 
 if __name__ == '__main__':
     db = MysqlDb()

@@ -1,0 +1,1 @@
+{"name": "注册手机号测试用例", "status": "passed", "start": 1772553280173, "stop": 1772553294415, "uuid": "6569f20a-f01f-4860-ba4d-0c047507c792", "testCaseId": "1ef10242b104e2c37b4944348bad3bf2", "fullName": "testcases.usercenter.test_user.TestUser#test_register", "titlePath": ["testcases", "usercenter", "test_user.py", "TestUser"]}

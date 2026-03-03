@@ -28,3 +28,88 @@
 [2026-03-03 16:58:21,931][mysql_util.py 28][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = 15000000000 order by id desc limit 1
 [2026-03-03 16:59:24,345][mysql_util.py 28][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = 15000000000 order by id desc limit 1
 [2026-03-03 17:25:13,727][mysql_util.py 28][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = 15000000000 order by id desc limit 1
+[2026-03-03 23:38:42,196][mysql_util.py 44][INFO]: 执行sql:delete from users_verifycode where mobile = '15000000000';
+[2026-03-03 23:38:42,263][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/code/
+[2026-03-03 23:38:42,263][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:38:42,263][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "mobile": 15000000000
+}
+[2026-03-03 23:38:42,670][response_util.py 14][INFO]: 接口返回内容>>>{"mobile": "15000000000"}
+[2026-03-03 23:38:42,670][mysql_util.py 29][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = '15000000000' order by id desc limit 1;
+[2026-03-03 23:38:42,701][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/users/
+[2026-03-03 23:38:42,702][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:38:42,702][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "code": "3211",
+  "password": "123456",
+  "mobile": "15000000000"
+}
+[2026-03-03 23:45:34,935][mysql_util.py 44][INFO]: 执行sql:delete from users_verifycode where mobile = '17301292171';
+[2026-03-03 23:45:34,997][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/code/
+[2026-03-03 23:45:34,997][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:45:34,997][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "mobile": 17301292171
+}
+[2026-03-03 23:45:35,091][response_util.py 14][INFO]: 接口返回内容>>>{"mobile": "17301292171"}
+[2026-03-03 23:45:35,091][mysql_util.py 29][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = '17301292171' order by id desc limit 1;
+[2026-03-03 23:45:35,122][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/users/
+[2026-03-03 23:45:35,122][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:45:35,122][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "code": "2608",
+  "password": "123456",
+  "mobile": "17301292171"
+}
+[2026-03-03 23:48:37,073][mysql_util.py 44][INFO]: 执行sql:delete from users_verifycode where mobile = '17301292171';
+[2026-03-03 23:48:37,137][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/code/
+[2026-03-03 23:48:37,137][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:48:37,137][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "mobile": 17301292171
+}
+[2026-03-03 23:48:37,231][response_util.py 14][INFO]: 接口返回内容>>>{"mobile": "17301292171"}
+[2026-03-03 23:48:37,231][mysql_util.py 29][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = '17301292171' order by id desc limit 1;
+[2026-03-03 23:48:37,262][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/users/
+[2026-03-03 23:48:37,262][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:48:37,262][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "code": "7546",
+  "password": "123456",
+  "mobile": "17301292171"
+}
+[2026-03-03 23:54:40,181][mysql_util.py 44][INFO]: 执行sql:delete from users_verifycode where mobile = '17301292171';
+[2026-03-03 23:54:40,253][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/code/
+[2026-03-03 23:54:40,253][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:54:40,253][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "mobile": 17301292171
+}
+[2026-03-03 23:54:40,353][response_util.py 14][INFO]: 接口返回内容>>>{"mobile": "17301292171"}
+[2026-03-03 23:54:40,354][mysql_util.py 29][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = '17301292171' order by id desc limit 1;
+[2026-03-03 23:54:40,385][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/users/
+[2026-03-03 23:54:40,385][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:54:40,385][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "code": "9158",
+  "password": "123456",
+  "mobile": "17301292171"
+}
+[2026-03-03 23:55:10,164][mysql_util.py 44][INFO]: 执行sql:delete from users_verifycode where mobile = '17301292171';
+[2026-03-03 23:55:10,238][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/code/
+[2026-03-03 23:55:10,238][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:55:10,238][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "mobile": 17301292171
+}
+[2026-03-03 23:55:10,342][response_util.py 14][INFO]: 接口返回内容>>>{"mobile": "17301292171"}
+[2026-03-03 23:55:10,342][mysql_util.py 29][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = '17301292171' order by id desc limit 1;
+[2026-03-03 23:55:54,914][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/users/
+[2026-03-03 23:55:54,917][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-03 23:55:54,918][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "code": "0771",
+  "password": "123456",
+  "mobile": "17301292171"
+}

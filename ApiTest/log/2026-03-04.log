@@ -1,0 +1,19 @@
+[2026-03-04 00:00:13,983][mysql_util.py 44][INFO]: 执行sql:delete from users_verifycode where mobile = '17301292171';
+[2026-03-04 00:00:14,046][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/code/
+[2026-03-04 00:00:14,046][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-04 00:00:14,046][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "mobile": 17301292171
+}
+[2026-03-04 00:00:14,137][response_util.py 14][INFO]: 接口返回内容>>>{"mobile": "17301292171"}
+[2026-03-04 00:00:14,137][mysql_util.py 29][INFO]: 执行sql:SELECT code from users_verifycode WHERE  mobile = '17301292171' order by id desc limit 1;
+[2026-03-04 00:00:14,167][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/users/
+[2026-03-04 00:00:14,167][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-04 00:00:14,167][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "code": "1358",
+  "password": "123456",
+  "username": "17301292171"
+}
+[2026-03-04 00:00:14,323][response_util.py 14][INFO]: 接口返回内容>>>{"username": "17301292171", "mobile": "17301292171", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NDAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzMxNTg0MTQsImVtYWlsIjpudWxsfQ.j6nxSRgDiaPXa9xAtroNPha_89nvDWsq1v0MQKHBnaE", "name": "17301292171"}
+[2026-03-04 00:00:14,323][mysql_util.py 44][INFO]: 执行sql:DELETE FROM users_userprofile WHERE mobile = '17301292171';
