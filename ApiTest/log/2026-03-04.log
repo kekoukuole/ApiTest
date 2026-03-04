@@ -17,3 +17,24 @@
 }
 [2026-03-04 00:00:14,323][response_util.py 14][INFO]: 接口返回内容>>>{"username": "17301292171", "mobile": "17301292171", "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NDAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzMxNTg0MTQsImVtYWlsIjpudWxsfQ.j6nxSRgDiaPXa9xAtroNPha_89nvDWsq1v0MQKHBnaE", "name": "17301292171"}
 [2026-03-04 00:00:14,323][mysql_util.py 44][INFO]: 执行sql:DELETE FROM users_userprofile WHERE mobile = '17301292171';
+[2026-03-04 14:51:37,069][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-04 14:51:37,069][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-04 14:51:37,070][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-04 14:51:37,536][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzMyMTE4OTcsImVtYWlsIjpudWxsfQ.Iq1xNlMFcRqRCCCU32zcevVs9JxLvsEbZZR4tPnNnPU"}
+[2026-03-04 14:56:16,071][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-04 14:56:16,072][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-04 14:56:16,072][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-04 14:56:16,327][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzMyMTIxNzYsImVtYWlsIjpudWxsfQ.8_Vb0g89Hk_AdIg4xT8OfkdoDPRGD9eB8CpP7w06ic8"}
+[2026-03-04 17:52:19,559][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/banner/
+[2026-03-04 17:52:19,560][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-04 18:10:43,923][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-04 18:10:43,923][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-04 18:10:44,094][response_util.py 14][INFO]: 接口返回内容>>>[{"id": 190012, "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg", "index": 1, "add_time": "2026-01-16T10:40:23", "goods": 21}]

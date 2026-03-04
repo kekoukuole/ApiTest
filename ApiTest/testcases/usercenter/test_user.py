@@ -1,5 +1,8 @@
 import allure
-from api.user_api import register,send_code
+import pytest
+
+from api.user_api import register, send_code, login
+from testcases.conftest import get_data
 from testcases.usercenter.conftest import get_code, delete_user, delete_code
 from utils.read import base_data
 
@@ -9,7 +12,7 @@ class TestUser:
     @allure.story("用户注册后登陆")
     @allure.title("注册手机号测试用例")
     def test_register(self):
-        json_data = base_data.read_data()["test_register"]
+        json_data = get_data()["test_register"]
         #删除验证码
         delete_code(json_data["mobile"])
         #发送验证码
@@ -23,3 +26,11 @@ class TestUser:
         assert register_result.success is True
         #删除用户
         delete_user(mobile)
+
+    @pytest.mark.parametrize("username,password",get_data()["user_login"])
+    @allure.story("用户登陆")
+    @allure.title("用户手机号登陆")
+    def test_login(self,username,password):
+        result = login(username,password)
+        assert result.success is True
+        assert result.body["token"] is not None

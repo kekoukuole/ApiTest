@@ -58,3 +58,6 @@ json_data: { title: foo,body: bar,userId: 1}
 
 test_register:
   mobile: 17301292171
+
+user_login:
+  - [16655507209,123456]
