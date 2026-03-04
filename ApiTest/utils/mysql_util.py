@@ -28,15 +28,19 @@ class MysqlDb:
     def select_db_one(self,sql):
         logger.info(f"执行sql:{sql}")
         self.cur.execute(sql)
+        result = self.cur.fetchone()
+        logger.info(f"sql执行结果:{result}")
         #获取数据
-        return self.cur.fetchone()
+        return result
 
     #查询多条数据
     def select_db(self,sql):
         logger.info(f"执行sql:{sql}")
         self.cur.execute(sql)
+        result = self.cur.fetchall()
+        logger.info(f"sql执行结果:{result}")
         #获取数据
-        return self.cur.fetchall()
+        return result
 
     #执行sql
     def execute_db(self,sql):

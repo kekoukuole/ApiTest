@@ -1,0 +1,2 @@
+INFO     log:mysql_util.py:29 执行sql:select count(1) as banner_num from goods_banner
+INFO     log:mysql_util.py:32 sql执行结果:{'banner_num': 1}

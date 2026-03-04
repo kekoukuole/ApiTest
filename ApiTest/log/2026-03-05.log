@@ -1,0 +1,18 @@
+[2026-03-05 00:30:31,951][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-05 00:30:31,952][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-05 00:30:32,507][response_util.py 14][INFO]: 接口返回内容>>>[{"id": 190012, "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg", "index": 1, "add_time": "2026-01-16T10:40:23", "goods": 21}]
+[2026-03-05 00:30:54,887][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-05 00:30:54,887][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-05 00:30:54,971][response_util.py 14][INFO]: 接口返回内容>>>[{"id": 190012, "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg", "index": 1, "add_time": "2026-01-16T10:40:23", "goods": 21}]
+[2026-03-05 00:49:57,073][mysql_util.py 29][INFO]: 执行sql:select count(1) as banner_num from goods_banner
+[2026-03-05 00:49:57,105][mysql_util.py 32][INFO]: 执行结果:{'banner_num': 1}
+[2026-03-05 00:49:57,105][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-05 00:49:57,105][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-05 00:49:57,180][response_util.py 14][INFO]: 接口返回内容>>>[{"id": 190012, "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg", "index": 1, "add_time": "2026-01-16T10:40:23", "goods": 21}]
+[2026-03-05 00:54:37,082][mysql_util.py 29][INFO]: 执行sql:select count(1) as banner_num from goods_banner
+[2026-03-05 00:54:37,112][mysql_util.py 32][INFO]: sql执行结果:{'banner_num': 1}
+[2026-03-05 00:54:46,929][mysql_util.py 29][INFO]: 执行sql:select count(1) as banner_num from goods_banner
+[2026-03-05 00:54:46,961][mysql_util.py 32][INFO]: sql执行结果:{'banner_num': 1}
+[2026-03-05 00:54:46,961][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-05 00:54:46,961][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-05 00:54:47,036][response_util.py 14][INFO]: 接口返回内容>>>[{"id": 190012, "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg", "index": 1, "add_time": "2026-01-16T10:40:23", "goods": 21}]
