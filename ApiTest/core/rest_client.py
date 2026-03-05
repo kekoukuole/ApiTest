@@ -42,10 +42,10 @@ class RestClient:
         logger.info(f"接口请求地址>>>{self.api_root_url + url}")
         logger.info(f"接口请求方法>>>{method}")
         if data is not None:
-            logger.info(f"接口请求data参数>>>\n{json.dumps(data, indent=2)}")
+            logger.info(f"接口请求data参数>>>\n{json.dumps(data, indent=2,ensure_ascii=False)}")
         if json_data is not None:
-            logger.info(f"接口请求json参数>>>\n{json.dumps(json_data, indent=2)}")
+            logger.info(f"接口请求json参数>>>\n{json.dumps(json_data, indent=2,ensure_ascii=False)}")
         if params is not None:
-            logger.info(f"接口请求params参数>>>\n{json.dumps(params, indent=2)}")
+            logger.info(f"接口请求params参数>>>\n{json.dumps(params, indent=2,ensure_ascii=False)}")
         if headers is not None:
-            logger.info(f"接口请求headers参数>>>\n{json.dumps(headers, indent=2)}")
+            logger.info(f"接口请求headers参数>>>\n{json.dumps(headers, indent=2,ensure_ascii=False)}")

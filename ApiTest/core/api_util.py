@@ -26,4 +26,7 @@ class Api(RestClient):
     def shopping_add(self, **kwargs):
         return self.post("/shopcarts/", **kwargs)
 
+    def add_message(self, **kwargs):
+        return self.post("/messages/", **kwargs)
+
 api_util = Api()

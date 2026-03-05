@@ -15,7 +15,18 @@ def login_fixture():
         password = data["password"]
         result = login(mobile,password)
         os.environ['token'] = result.body["token"]
-        os.environ['token'] = str(mobile)
+        os.environ['mobile'] = str(mobile)
         return result.body["token"],mobile
     else:
         return os.environ['token'],os.environ['mobile']
+
+@pytest.fixture(scope="session")
+def login_token():
+    data = get_data()['login_fixture']
+    mobile = data['mobile']
+    password = data["password"]
+    result = login(mobile, password)
+    headers = {
+        "Authorization": "JWT " + result.body["token"]
+    }
+    return headers

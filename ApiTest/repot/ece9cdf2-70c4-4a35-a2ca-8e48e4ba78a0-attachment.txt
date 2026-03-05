@@ -1,0 +1,24 @@
+INFO     log:rest_client.py:42 接口请求地址>>>http://admin.5istudy.online/login/
+INFO     log:rest_client.py:43 接口请求方法>>>POST
+INFO     log:rest_client.py:47 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+INFO     log:response_util.py:14 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzMzMzA0MTMsImVtYWlsIjpudWxsfQ.a579FglVMJxR8gCip4IMPbM1j6VG461zFvHguGdooZI"}
+INFO     log:rest_client.py:42 接口请求地址>>>http://admin.5istudy.online/shopcarts/
+INFO     log:rest_client.py:43 接口请求方法>>>POST
+INFO     log:rest_client.py:45 接口请求data参数>>>
+{
+  "goods": 2,
+  "nums": 1
+}
+INFO     log:rest_client.py:51 接口请求headers参数>>>
+{
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzMzMzA0MTMsImVtYWlsIjpudWxsfQ.a579FglVMJxR8gCip4IMPbM1j6VG461zFvHguGdooZI"
+}
+INFO     log:response_util.py:14 接口返回内容>>>{"nums": 10, "goods": 2}
+INFO     log:mysql_util.py:29 执行sql:select id from users_userprofile where mobile = '16655507209';
+INFO     log:mysql_util.py:32 sql执行结果:{'id': 103878651}
+INFO     log:mysql_util.py:29 执行sql:select nums from trade_shoppingcart where user_id = 103878651 and goods_id =2 ;
+INFO     log:mysql_util.py:32 sql执行结果:{'nums': 10}
