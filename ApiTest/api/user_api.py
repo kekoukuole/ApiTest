@@ -39,3 +39,24 @@ def login(username,password):
     }
     response = api_util.user_login(json=json_data)
     return process_response(response)
+
+def add_shopping_cart(data,token):
+    """
+    添加购物车
+    :return:
+    """
+    headers = {
+        "Authorization": "JWT " + token
+    }
+    response = api_util.shopping_add(data=data,headers=headers)
+    return process_response(response)
+
+
+
+
+
+
+
+
+
+

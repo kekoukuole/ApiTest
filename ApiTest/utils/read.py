@@ -21,4 +21,6 @@ class Fileread:
         config.read(self.ini_path,encoding="utf-8")
         return config
 
+
+
 base_data = Fileread()

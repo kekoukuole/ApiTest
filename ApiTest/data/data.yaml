@@ -61,3 +61,14 @@ test_register:
 
 user_login:
   - [16655507209,123456]
+
+login_fixture:
+  mobile: 16655507209
+  password: 123456
+
+shopping_cart: { goods: 2, nums: 1 }
+
+add_message:
+  subject:  测试留言
+  message:  在这里购物
+  message_type: 1
