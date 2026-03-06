@@ -1,5 +1,5 @@
 from core.rest_client_new import RestClient
-
+from utils.AssertUtil import AssertUtil
 
 class Apiservice:
     def __init__(self):
@@ -19,5 +19,6 @@ class Apiservice:
         #获取validate
         validate = case_info.pop("validate",None)
         res = self.session.do_request(url=url,method=method,headers=headers,**case_info)
-        validate_response(res,validate)
+        #断言逻辑
+        AssertUtil().validate_response(res,validate)
         return res
