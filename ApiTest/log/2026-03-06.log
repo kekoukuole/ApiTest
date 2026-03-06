@@ -1,0 +1,33 @@
+[2026-03-06 16:06:46,248][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-06 16:06:46,248][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-06 16:06:46,248][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-06 16:09:52,125][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-06 16:09:52,126][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-06 16:09:52,126][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-06 16:09:52,126][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-06 16:11:51,829][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-06 16:11:51,830][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-06 16:11:51,830][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-06 16:11:51,830][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-06 16:11:52,238][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzMzODk1MTIsImVtYWlsIjpudWxsfQ.AzE79bGpO-Vds6AMnEWz3BeRATKIIQHzgxRDxVcxkYM"
+}

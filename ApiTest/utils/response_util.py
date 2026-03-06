@@ -5,7 +5,7 @@ from utils.log_util import logger
 
 
 def process_response(response):
-    if response.status_code == 200 or 201:
+    if response.status_code in (200, 201):
         ResultResponse.success = True
         ResultResponse.body =response.json()
     else:

@@ -1,0 +1,14 @@
+user_login_new:
+  #接口的基本信息
+  - request_info:
+      url:  /login/
+      method: POST
+      headers:
+        Content-Type: application/json
+    case_info:
+      #接口请求参数
+      json:
+        username: 16655507209
+        password: 123456
+      validate:
+        - contains: [$.token,'evjoe']
