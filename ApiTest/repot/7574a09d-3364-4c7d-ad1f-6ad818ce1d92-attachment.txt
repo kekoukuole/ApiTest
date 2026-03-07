@@ -1,0 +1,16 @@
+INFO     log:rest_client_new.py:48 接口请求地址>>>http://admin.5istudy.online/banners/
+INFO     log:rest_client_new.py:49 接口请求方法>>>GET
+INFO     log:rest_client_new.py:57 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+INFO     log:rest_client_new.py:17 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]

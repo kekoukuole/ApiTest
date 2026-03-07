@@ -1,0 +1,30 @@
+order_list:
+  #接口的基本信息
+  - request_info:
+      case_title: 订单列表接口
+      url: /orders/
+      method: GET
+      headers:
+        Content-Type: application/json
+    case_info:
+      #接口请求参数
+      - params:
+        validate:
+          - length: [ '$..id', 1 ]
+        extract:  '$.[0].id'
+
+
+
+order_detail:
+  #接口的基本信息
+  - request_info:
+      case_title: 订单列表接口
+      url: /orders/${get_extract_data}/
+      method: GET
+      headers:
+        Content-Type: application/json
+    case_info:
+      #接口请求参数
+      - params:
+        validate:
+#          - length: [ '$..id', 1 ]

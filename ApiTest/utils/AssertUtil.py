@@ -6,6 +6,11 @@ class AssertUtil:
     def contains(self,check_value,expect_value):
         assert expect_value in check_value
 
+    def length(self,check_value,expect_value):
+        if not isinstance(check_value,list):
+            check_value = [check_value]
+        assert len(check_value) == expect_value
+
 
     def extract_by_jsonpath(self, extract_value: dict, extract_expression: str):
         """
@@ -37,3 +42,5 @@ class AssertUtil:
                 expect_value = check_value[1]
                 if check_type in ["contains"]:
                     self.contains(actual_value,expect_value)
+                elif check_type in["length"]:
+                    self.length(actual_value,expect_value)

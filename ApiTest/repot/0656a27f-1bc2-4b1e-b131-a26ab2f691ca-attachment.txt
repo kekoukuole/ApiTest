@@ -1,5 +1,0 @@
-INFO     log:mysql_util.py:29 执行sql:select count(1) as banner_num from goods_banner
-INFO     log:mysql_util.py:32 执行结果:{'banner_num': 1}
-INFO     log:rest_client.py:42 接口请求地址>>>http://admin.5istudy.online/banners/
-INFO     log:rest_client.py:43 接口请求方法>>>GET
-INFO     log:response_util.py:14 接口返回内容>>>[{"id": 190012, "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg", "index": 1, "add_time": "2026-01-16T10:40:23", "goods": 21}]

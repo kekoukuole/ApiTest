@@ -63,7 +63,7 @@ user_login:
   - [16655507209,123456]
 
 login_fixture:
-  mobile: 16655507209
+  mobile: 17301292171
   password: 123456
 
 shopping_cart: { goods: 2, nums: 1 }

@@ -1,14 +1,20 @@
 user_login_new:
   #接口的基本信息
   - request_info:
+      case_title: 登陆接口
       url:  /login/
       method: POST
       headers:
         Content-Type: application/json
     case_info:
       #接口请求参数
-      json:
-        username: 16655507209
-        password: 123456
-      validate:
-        - contains: [$.token,'eyJ']
+      - json:
+          username: 16655507209
+          password: 123456
+        validate:
+          - contains: [ $.token,'eyJ' ]
+      - json:
+          username: 17301292171
+          password: 123456
+        validate:
+          - contains: [ $.token,'eyJ' ]

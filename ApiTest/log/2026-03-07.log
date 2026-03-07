@@ -28,3 +28,1057 @@
 {
   "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0MjAxNDMsImVtYWlsIjpudWxsfQ.RfVyXqvfzWx_HMCiTA3t6WOlNnb8IAl5jq03J9-4R6A"
 }
+[2026-03-07 13:27:13,039][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 13:27:13,039][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 13:27:13,039][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 13:27:13,039][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 13:27:13,635][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NjYwMzMsImVtYWlsIjpudWxsfQ.4Gom5UM902tN81fofSPzELghMPtdO-z7EirkGjS52aE"
+}
+[2026-03-07 15:48:04,005][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 15:48:04,005][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 15:48:04,005][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 15:48:04,005][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 15:48:04,384][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzQ0ODQsImVtYWlsIjpudWxsfQ.bt_NTy33YkZKrWqwDXWeTgkrn952fXtEJ_xALaLz6xc"
+}
+[2026-03-07 15:48:04,387][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 15:48:04,387][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 15:48:04,387][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 15:48:04,387][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 15:48:04,758][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzQ0ODQsImVtYWlsIjpudWxsfQ.bt_NTy33YkZKrWqwDXWeTgkrn952fXtEJ_xALaLz6xc"
+}
+[2026-03-07 16:14:45,533][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:14:45,533][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:14:45,533][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:14:45,533][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:14:45,941][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzYwODYsImVtYWlsIjpudWxsfQ.LYJe3XZstjl2ytLOa-AZ1bsc1rihN-LvNZbmVOYDOio"
+}
+[2026-03-07 16:14:45,944][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:14:45,944][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:14:45,945][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:14:45,945][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:14:46,392][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzYwODYsImVtYWlsIjpudWxsfQ.LYJe3XZstjl2ytLOa-AZ1bsc1rihN-LvNZbmVOYDOio"
+}
+[2026-03-07 16:14:53,170][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:14:53,170][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:14:53,170][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:14:53,170][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:14:53,600][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzYwOTMsImVtYWlsIjpudWxsfQ.rFaxmfeBC69qrl-2hm6cDLYrRrl89tIoHSQlqmZSEYE"
+}
+[2026-03-07 16:14:53,610][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:14:53,610][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:14:53,611][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:14:53,611][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:14:53,984][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzYwOTQsImVtYWlsIjpudWxsfQ.hJGcGatySLP18HqLd4VSXRCqKt6CH_ROFKBoHs7u90k"
+}
+[2026-03-07 16:18:16,867][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:18:16,868][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:18:16,868][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:18:16,868][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:18:17,229][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzYyOTcsImVtYWlsIjpudWxsfQ.or63kIuIOq9Kwjl_-jasKLHNaJVVAtYnnKeeuEfDrzk"
+}
+[2026-03-07 16:18:17,240][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:18:17,240][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:18:17,240][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:18:17,240][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:18:17,680][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzYyOTcsImVtYWlsIjpudWxsfQ.or63kIuIOq9Kwjl_-jasKLHNaJVVAtYnnKeeuEfDrzk"
+}
+[2026-03-07 16:18:46,570][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:18:46,570][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:18:46,570][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:18:46,570][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:18:46,941][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzYzMjcsImVtYWlsIjpudWxsfQ.9HU3o3EoQRITtoIpDcZX-voM_EwEnF9voCuFkLp8cn8"
+}
+[2026-03-07 16:18:46,944][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:18:46,944][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:18:46,944][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:18:46,944][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:18:47,300][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzYzMjcsImVtYWlsIjpudWxsfQ.9HU3o3EoQRITtoIpDcZX-voM_EwEnF9voCuFkLp8cn8"
+}
+[2026-03-07 16:26:31,800][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:26:31,800][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:26:31,800][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:26:31,800][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:26:32,177][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzY3OTIsImVtYWlsIjpudWxsfQ.h6xZNsGeocNJw3XOhsKyeW_1yXA6vm6zGczHw3e_S3o"
+}
+[2026-03-07 16:26:32,182][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:26:32,182][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:26:32,183][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:26:32,183][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:26:32,349][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzY3OTIsImVtYWlsIjpudWxsfQ.h6xZNsGeocNJw3XOhsKyeW_1yXA6vm6zGczHw3e_S3o"
+}
+[2026-03-07 16:32:35,984][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:32:35,984][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:32:35,984][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:32:35,984][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:32:36,146][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzcxNTYsImVtYWlsIjpudWxsfQ.544ceQJ76JsLwI2v-nEjGVBhBwMIys729q3lda-9LGk"
+}
+[2026-03-07 16:32:36,149][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:32:36,149][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:32:36,149][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:32:36,149][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:32:36,348][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzcxNTYsImVtYWlsIjpudWxsfQ.544ceQJ76JsLwI2v-nEjGVBhBwMIys729q3lda-9LGk"
+}
+[2026-03-07 16:33:56,244][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:33:56,244][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:33:56,244][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:33:56,245][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:33:56,415][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzcyMzYsImVtYWlsIjpudWxsfQ.LL34tQTYcuRovmOfR7cQT0g6TBd-N5FgiDGaldxcXtI"
+}
+[2026-03-07 16:33:56,423][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:33:56,423][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:33:56,424][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:33:56,424][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:33:56,589][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzcyMzYsImVtYWlsIjpudWxsfQ.LL34tQTYcuRovmOfR7cQT0g6TBd-N5FgiDGaldxcXtI"
+}
+[2026-03-07 16:34:18,827][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:34:18,827][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:34:18,827][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:34:18,828][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:34:18,988][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzcyNTksImVtYWlsIjpudWxsfQ.LWJ15gwTUi8WeeyWZFd0r_M_B793yFxTOSs5NICyRXk"
+}
+[2026-03-07 16:34:18,992][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:34:18,992][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:34:18,992][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:34:18,992][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:34:19,231][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzcyNTksImVtYWlsIjpudWxsfQ.LWJ15gwTUi8WeeyWZFd0r_M_B793yFxTOSs5NICyRXk"
+}
+[2026-03-07 16:42:30,030][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:42:30,031][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:42:30,031][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:42:30,031][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:42:30,520][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0Nzc3NTAsImVtYWlsIjpudWxsfQ.mczrXkDtxATXBWFMJ7ST9FwgbxW5eqMB290ihtxFaNQ"
+}
+[2026-03-07 16:42:30,523][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:42:30,523][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:42:30,523][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:42:30,523][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:42:30,678][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0Nzc3NTAsImVtYWlsIjpudWxsfQ.mczrXkDtxATXBWFMJ7ST9FwgbxW5eqMB290ihtxFaNQ"
+}
+[2026-03-07 16:49:21,243][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:49:21,244][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:49:21,244][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:49:21,244][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:49:21,414][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzgxNjEsImVtYWlsIjpudWxsfQ.MZKeHEvlSuYT5wFu9uR9pHTCwANiZh-Vih9AxOhPRUA"
+}
+[2026-03-07 16:49:21,419][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 16:49:21,419][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 16:49:21,419][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 16:49:21,419][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 16:49:21,576][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzgxNjEsImVtYWlsIjpudWxsfQ.MZKeHEvlSuYT5wFu9uR9pHTCwANiZh-Vih9AxOhPRUA"
+}
+[2026-03-07 17:05:06,181][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 17:05:06,181][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 17:05:06,181][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 17:05:06,181][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 17:05:06,448][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzkxMDYsImVtYWlsIjpudWxsfQ.lLJFUQ2rQZjIAGaIH8uwVuVkzWmvUH0KK8E4P42it6c"
+}
+[2026-03-07 17:05:06,452][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 17:05:06,452][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 17:05:06,452][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 17:05:06,452][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 17:05:06,616][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzkxMDYsImVtYWlsIjpudWxsfQ.lLJFUQ2rQZjIAGaIH8uwVuVkzWmvUH0KK8E4P42it6c"
+}
+[2026-03-07 17:08:52,087][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 17:08:52,087][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 17:08:52,087][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 17:08:52,087][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 17:08:52,249][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzkzMzIsImVtYWlsIjpudWxsfQ.MDWZ-hjmWHYbAl-tAfcuHSQXQV13L7_6HtzfiIxNFI4"
+}
+[2026-03-07 17:08:52,252][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 17:08:52,252][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 17:08:52,252][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 17:08:52,252][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 17:08:52,420][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0NzkzMzIsImVtYWlsIjpudWxsfQ.MDWZ-hjmWHYbAl-tAfcuHSQXQV13L7_6HtzfiIxNFI4"
+}
+[2026-03-07 18:19:41,237][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 18:19:41,238][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 18:19:41,238][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 18:19:41,238][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 18:19:41,740][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0ODM1ODEsImVtYWlsIjpudWxsfQ.q7fiLqDd7xbDnfAQEr11VLZJNyp35k6QpQCLnEhHFXM"
+}
+[2026-03-07 18:19:41,744][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 18:19:41,745][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 18:19:41,745][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 18:19:41,745][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 18:19:42,025][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0ODM1ODIsImVtYWlsIjpudWxsfQ.bHz3KJTcaFmDN4OYmWvt7tLv9yLdX7d1rVyxGWHozUo"
+}
+[2026-03-07 21:10:50,822][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 21:10:50,822][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 21:10:50,822][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 21:10:51,198][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTM4NTEsImVtYWlsIjpudWxsfQ.kfwHw-7f4GqZtwqv2wDiK35VLM-fLyt6ssW89U6Q6cs"}
+[2026-03-07 21:10:51,203][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 21:10:51,203][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:10:51,203][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTM4NTEsImVtYWlsIjpudWxsfQ.kfwHw-7f4GqZtwqv2wDiK35VLM-fLyt6ssW89U6Q6cs"
+}
+[2026-03-07 21:10:51,509][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[]
+[2026-03-07 21:11:33,804][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 21:11:33,804][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 21:11:33,804][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 21:11:34,171][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTM4OTQsImVtYWlsIjpudWxsfQ.OV4Ub2qL0tb1HOFPkVsAimaVIGpK_CLgI-TH_eZ9TeA"}
+[2026-03-07 21:11:34,174][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 21:11:34,174][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:11:34,174][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTM4OTQsImVtYWlsIjpudWxsfQ.OV4Ub2qL0tb1HOFPkVsAimaVIGpK_CLgI-TH_eZ9TeA"
+}
+[2026-03-07 21:11:34,504][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[]
+[2026-03-07 21:14:36,620][mysql_util.py 29][INFO]: 执行sql:select count(1) as banner_num from goods_banner
+[2026-03-07 21:14:36,649][mysql_util.py 32][INFO]: sql执行结果:{'banner_num': 1}
+[2026-03-07 21:14:36,650][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 21:14:36,650][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:14:36,959][response_util.py 14][INFO]: 接口返回内容>>>[{"id": 190012, "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg", "index": 1, "add_time": "2026-01-16T10:40:23", "goods": 21}]
+[2026-03-07 21:16:10,373][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 21:16:10,373][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 21:16:10,373][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 21:16:10,744][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTQxNzAsImVtYWlsIjpudWxsfQ.Z89_esQ_IbhjEMCWpxblhlCneoVV-uitBRHkVKhpMBM"}
+[2026-03-07 21:16:10,746][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 21:16:10,746][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:16:10,746][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTQxNzAsImVtYWlsIjpudWxsfQ.Z89_esQ_IbhjEMCWpxblhlCneoVV-uitBRHkVKhpMBM"
+}
+[2026-03-07 21:16:11,024][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[]
+[2026-03-07 21:23:32,858][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 21:23:32,858][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 21:23:32,858][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 21:23:33,250][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTQ2MTMsImVtYWlsIjpudWxsfQ.01ZBIZ1agBlYDeK3ec78lJouanp7Mj7PJcMF_xalEZY"}
+[2026-03-07 21:23:33,253][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 21:23:33,253][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:23:33,253][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTQ2MTMsImVtYWlsIjpudWxsfQ.01ZBIZ1agBlYDeK3ec78lJouanp7Mj7PJcMF_xalEZY"
+}
+[2026-03-07 21:23:33,530][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[]
+[2026-03-07 21:28:41,484][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 21:28:41,484][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 21:28:41,484][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 21:28:41,870][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTQ5MjEsImVtYWlsIjpudWxsfQ.TWs8-h-2AER5XV-e8jUX8vTxM8sDlo7pCOuYfehYuVU"}
+[2026-03-07 21:28:41,873][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 21:28:41,873][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:28:41,873][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM0OTQ5MjEsImVtYWlsIjpudWxsfQ.TWs8-h-2AER5XV-e8jUX8vTxM8sDlo7pCOuYfehYuVU"
+}
+[2026-03-07 21:28:42,334][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[]
+[2026-03-07 21:29:33,207][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 21:29:33,207][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 21:29:33,207][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 21:29:33,573][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTQ5NzMsImVtYWlsIjpudWxsfQ.TumFgmOvZCAM-C4lsG6MJPmwmBbw-os98lPjuiKgo4E"}
+[2026-03-07 21:29:33,576][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 21:29:33,576][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:29:33,576][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTQ5NzMsImVtYWlsIjpudWxsfQ.TumFgmOvZCAM-C4lsG6MJPmwmBbw-os98lPjuiKgo4E"
+}
+[2026-03-07 21:29:33,938][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 16628,
+    "pay_status": "paying",
+    "order_sn": "2026030720561410387881043",
+    "trade_no": null,
+    "pay_time": null,
+    "add_time": "2026-03-07 20:56:14",
+    "alipay_url": "https://openapi-sandbox.dl.alipaydev.com/gateway.do?app_id=9021000123614494&biz_content=%7B%22subject%22%3A%222026030720561410387881043%22%2C%22out_trade_no%22%3A%222026030720561410387881043%22%2C%22total_amount%22%3A26.0%2C%22product_code%22%3A%22FAST_INSTANT_TRADE_PAY%22%7D&charset=utf-8&method=alipay.trade.page.pay&notify_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&return_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&sign_type=RSA2&timestamp=2026-03-07+21%3A29%3A34&version=1.0&sign=b0glhG6iCLaMfZiiD%2BgS8NzQYzkzstbaiBWsquKdiQYhacvB%2FWlQlLCTCEqTR%2FHqHvR0sJRLgWIdYvwtHsi0NcsyzH0438LjCn%2BPnrZUA5qlQD0rsaDboSWp8%2Fe6%2B2IYGIJrXkBtcPoa9QFiH%2FWWKvh%2FyEKKT95bCpCtFlTIZ1Hyr2JjZ2EW4pCSixCMzVlK4pEdPvuZyI7QyXOLRYvLBSftWE%2FTm7Yplvr09wI%2FpHMzvdaDZwRGtN%2Br2idADFGJxSmXZHUhx9M7UbvZ0EfNhd3YE5SCGCkobLtp9YzP9kzkYdJAHGvg6RwxeES00wGOPaZER75WDREa5U%2FYpKIGYA%3D%3D",
+    "post_script": "qqq",
+    "order_mount": 26.0,
+    "address": "北京市北京城区东城区111",
+    "signer_name": "111",
+    "singer_mobile": "111"
+  }
+]
+[2026-03-07 21:32:41,757][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 21:32:41,758][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 21:32:41,758][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 21:32:42,126][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTUxNjIsImVtYWlsIjpudWxsfQ.FUW43wpHyNPsz_sT_MrEyB5mF-R0pfHZ_yT7Foy3HNs"}
+[2026-03-07 21:32:42,128][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 21:32:42,128][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:32:42,129][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTUxNjIsImVtYWlsIjpudWxsfQ.FUW43wpHyNPsz_sT_MrEyB5mF-R0pfHZ_yT7Foy3HNs"
+}
+[2026-03-07 21:32:42,502][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 16628,
+    "pay_status": "paying",
+    "order_sn": "2026030720561410387881043",
+    "trade_no": null,
+    "pay_time": null,
+    "add_time": "2026-03-07 20:56:14",
+    "alipay_url": "https://openapi-sandbox.dl.alipaydev.com/gateway.do?app_id=9021000123614494&biz_content=%7B%22subject%22%3A%222026030720561410387881043%22%2C%22out_trade_no%22%3A%222026030720561410387881043%22%2C%22total_amount%22%3A26.0%2C%22product_code%22%3A%22FAST_INSTANT_TRADE_PAY%22%7D&charset=utf-8&method=alipay.trade.page.pay&notify_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&return_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&sign_type=RSA2&timestamp=2026-03-07+21%3A32%3A42&version=1.0&sign=bzqpWNELHx0edFgHVVSIhrzX5kROcc3JtJC5lgI5YDj8vI9rasyoVVNVb6agwBoSrwYJ4GxpfMXVAozHEx1rCS%2B1brcUNL%2Fo%2BCGOViQq9G4ECrsDfPR8uoK4SKKyMQd94m2V%2FHCqejnnO9XpfeIUhWYmySZL7fqwaZjs7hxudkvmehFYUXcVDh6smY0popnn7p6SFDrvl51THj2qkt%2BYtCqykNlb6MFSj93%2BK%2Bj%2Fm36HxLR36lmKG2X0mI7SrFykwGAASgCsBVch7urRlwPu6PkWvyz2QYri2764FLQvn9dkDQems2rXfCTKV480T1JJFvJlcWSicvgnxNGuPHknEg%3D%3D",
+    "post_script": "qqq",
+    "order_mount": 26.0,
+    "address": "北京市北京城区东城区111",
+    "signer_name": "111",
+    "singer_mobile": "111"
+  }
+]
+[2026-03-07 21:50:29,709][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 21:50:29,709][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:50:29,709][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 21:50:29,986][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 21:51:12,691][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 21:51:12,691][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 21:51:12,691][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 21:51:13,065][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTYyNzMsImVtYWlsIjpudWxsfQ.5TWQ0MbFw0tN6PPtGxlUxBbnOSNHI4DZ3RAeI3vtgQw"}
+[2026-03-07 21:51:13,068][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 21:51:13,068][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:51:13,068][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTYyNzMsImVtYWlsIjpudWxsfQ.5TWQ0MbFw0tN6PPtGxlUxBbnOSNHI4DZ3RAeI3vtgQw"
+}
+[2026-03-07 21:51:13,484][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 16628,
+    "pay_status": "paying",
+    "order_sn": "2026030720561410387881043",
+    "trade_no": null,
+    "pay_time": null,
+    "add_time": "2026-03-07 20:56:14",
+    "alipay_url": "https://openapi-sandbox.dl.alipaydev.com/gateway.do?app_id=9021000123614494&biz_content=%7B%22subject%22%3A%222026030720561410387881043%22%2C%22out_trade_no%22%3A%222026030720561410387881043%22%2C%22total_amount%22%3A26.0%2C%22product_code%22%3A%22FAST_INSTANT_TRADE_PAY%22%7D&charset=utf-8&method=alipay.trade.page.pay&notify_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&return_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&sign_type=RSA2&timestamp=2026-03-07+21%3A51%3A13&version=1.0&sign=R74Gi3HXpCMaOVqT9AF7t7R%2F7ruumT%2BOgwBEOECNID0ZSo%2FNcJ%2F%2FwLA3SzlflefelrDJuzO52qO2qLRYdPb0g9OID0mH7vlJBe6fzW%2BCpfQcSwmNYbxTYvIeOKOV3jfvuBu%2FwnagVoJEXz92N%2FJN0zgwcdwg1gmpHgCGeLDIDnkXezDgbJD9%2FC9uU5u0SPndFV0Ij5azitZ4xsVoQ6cmuLxOYGqb7fjYYv%2F6dc%2BJkGg5busGWtPjJ1Va1q2Q8HJogFmET62nPnhg6KS%2Bon6NmAnHrJqTt4E3T%2BEeIEdz7P455T%2FTtI5YQ9G%2BYsjQckiR7c35hBaPP%2B0xSYW8jS48KQ%3D%3D",
+    "post_script": "qqq",
+    "order_mount": 26.0,
+    "address": "北京市北京城区东城区111",
+    "signer_name": "111",
+    "singer_mobile": "111"
+  }
+]
+[2026-03-07 21:53:38,706][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 21:53:38,707][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:53:38,707][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 21:53:39,073][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 21:53:54,690][mysql_util.py 29][INFO]: 执行sql:select count(1) as banner_num from goods_banner
+[2026-03-07 21:53:54,807][mysql_util.py 32][INFO]: sql执行结果:{'banner_num': 1}
+[2026-03-07 21:53:54,807][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 21:53:54,807][rest_client.py 43][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:53:55,167][response_util.py 14][INFO]: 接口返回内容>>>[{"id": 190012, "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg", "index": 1, "add_time": "2026-01-16T10:40:23", "goods": 21}]
+[2026-03-07 21:53:57,884][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 21:53:57,884][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 21:53:57,884][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 21:53:58,167][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:04:40,912][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:04:40,912][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:04:40,912][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:04:41,268][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:07:51,212][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:07:51,212][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:07:51,212][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:07:51,489][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:08:16,833][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:08:16,833][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:08:16,833][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:08:17,111][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:22:57,436][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:22:57,436][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:22:57,437][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:22:57,724][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:24:25,178][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:24:25,178][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:24:25,178][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:24:25,466][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:25:25,958][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:25:25,959][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:25:25,959][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:25:26,247][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:25:45,030][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:25:45,031][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:25:45,031][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:25:45,320][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:35:00,811][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:35:00,812][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:35:00,812][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:35:01,174][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:35:41,677][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:35:41,677][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:35:41,677][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:35:41,957][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:36:19,953][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 22:36:19,953][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 22:36:19,953][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 22:36:20,336][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTg5ODAsImVtYWlsIjpudWxsfQ.LWMKkY2rwH12A4dtpihINpRyd0NC-Uo6GM2z8lYKYJI"}
+[2026-03-07 22:36:20,339][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 22:36:20,339][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:36:20,339][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTg5ODAsImVtYWlsIjpudWxsfQ.LWMKkY2rwH12A4dtpihINpRyd0NC-Uo6GM2z8lYKYJI"
+}
+[2026-03-07 22:36:20,700][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 16628,
+    "pay_status": "paying",
+    "order_sn": "2026030720561410387881043",
+    "trade_no": null,
+    "pay_time": null,
+    "add_time": "2026-03-07 20:56:14",
+    "alipay_url": "https://openapi-sandbox.dl.alipaydev.com/gateway.do?app_id=9021000123614494&biz_content=%7B%22subject%22%3A%222026030720561410387881043%22%2C%22out_trade_no%22%3A%222026030720561410387881043%22%2C%22total_amount%22%3A26.0%2C%22product_code%22%3A%22FAST_INSTANT_TRADE_PAY%22%7D&charset=utf-8&method=alipay.trade.page.pay&notify_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&return_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&sign_type=RSA2&timestamp=2026-03-07+22%3A36%3A20&version=1.0&sign=kTnxM4wObZzhWI2EwviO84cUPpCg3lLf%2FRILUVi91CNZ7YFf6jRFBaYb3XrWpelmk5jdW2PEHpz5t0VVD37Ne5apMc2VU1Ni3U8jofrn8oKLLsHpXI7lFL2YamYTymXICOa0RWb9cIpGT58C%2BQpEn7RmKeMCs5WYsS5%2Fz2u%2FreWj5a0pJ6gNIAwXN4aglowi7EtAx5u%2BcG4ruGW2QF3L6UXpCrIV8dLiJsqeu8wMGJbEY5WKj1kIo7rRrepPs4Pqxu9ZCwYyd2GQbCDEN%2Bz7L8N67D5t%2BybvtobnkOZmo%2B6H6PnBqPZmlt6NmWtCkbMA%2BMZV4NxBQhoR3zXJ5D0r%2BQ%3D%3D",
+    "post_script": "qqq",
+    "order_mount": 26.0,
+    "address": "北京市北京城区东城区111",
+    "signer_name": "111",
+    "singer_mobile": "111"
+  }
+]
+[2026-03-07 22:36:41,523][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 22:36:41,523][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 22:36:41,523][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 22:36:41,965][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTkwMDEsImVtYWlsIjpudWxsfQ.7q04bMMnkIMUrUAc6adYs1C5XvjEUbuv6tVrM1IthE8"}
+[2026-03-07 22:36:41,968][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 22:36:41,968][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:36:41,968][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM0OTkwMDEsImVtYWlsIjpudWxsfQ.7q04bMMnkIMUrUAc6adYs1C5XvjEUbuv6tVrM1IthE8"
+}
+[2026-03-07 22:36:42,359][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 16628,
+    "pay_status": "paying",
+    "order_sn": "2026030720561410387881043",
+    "trade_no": null,
+    "pay_time": null,
+    "add_time": "2026-03-07 20:56:14",
+    "alipay_url": "https://openapi-sandbox.dl.alipaydev.com/gateway.do?app_id=9021000123614494&biz_content=%7B%22subject%22%3A%222026030720561410387881043%22%2C%22out_trade_no%22%3A%222026030720561410387881043%22%2C%22total_amount%22%3A26.0%2C%22product_code%22%3A%22FAST_INSTANT_TRADE_PAY%22%7D&charset=utf-8&method=alipay.trade.page.pay&notify_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&return_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&sign_type=RSA2&timestamp=2026-03-07+22%3A36%3A42&version=1.0&sign=cPNAfoP%2BdkqhcoX4yKmCJTe99hOSrcdGIXINhHx7n5MJzEms4uMV7uvnSUOX%2F6F43P6cmRYuZMB2vbtkuWP8r%2BbiZALSoTwVNV0v686ElPA2X3K53VBxiskOGILdK75vApfYm68IoE4To0aWM3LBiZ7igoiaFNy6jPnxg0vVX505ZyUyYhg4Vs4BXphhSTNRWF6rVoeNISl13xpCLiECLwodRCfkqL8oLGYe%2BGXiQMjZ%2BRxR3C075XpN7MXTbQDWqyzzxQLAgN%2FqyS1fQswSn61uly0%2B9pQmfWvTuIs%2Fvi%2FyXtTOGuSvkX0X8YuGDvI%2BBbwa1EZOCxh4O2fEqKqxtw%3D%3D",
+    "post_script": "qqq",
+    "order_mount": 26.0,
+    "address": "北京市北京城区东城区111",
+    "signer_name": "111",
+    "singer_mobile": "111"
+  }
+]
+[2026-03-07 22:44:29,065][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:44:29,065][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:44:29,065][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:44:29,344][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:46:39,307][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:46:39,308][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:46:39,308][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:46:39,618][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 22:47:10,661][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/banners/
+[2026-03-07 22:47:10,662][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 22:47:10,662][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 22:47:11,008][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 190012,
+    "image": "http://admin.5istudy.online/media/brand/sxsp-1_KDntI6h_fnL5d3s.jpg",
+    "index": 1,
+    "add_time": "2026-01-16T10:40:23",
+    "goods": 21
+  }
+]
+[2026-03-07 23:02:29,888][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 23:02:29,888][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 23:02:29,888][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 23:02:29,888][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 23:02:30,261][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM1MDA1NTAsImVtYWlsIjpudWxsfQ.XGiZ5Hx9rswI4Rf3mCPVHdwYKmmMy9tjxhRjJB4zZa0"
+}
+[2026-03-07 23:03:09,115][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 23:03:09,115][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 23:03:09,115][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 23:03:09,116][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 23:03:09,569][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM1MDA1ODksImVtYWlsIjpudWxsfQ.FbCIZ1XwD_Se-D2v6Y0qvAcvEdC6c_x7S2cDmGeSBvU"
+}
+[2026-03-07 23:04:10,803][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 23:04:10,804][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 23:04:10,804][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 16655507209,
+  "password": 123456
+}
+[2026-03-07 23:04:10,804][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 23:04:11,205][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg2NTEsInVzZXJuYW1lIjoiMTY2NTU1MDcyMDkiLCJleHAiOjE3NzM1MDA2NTEsImVtYWlsIjpudWxsfQ.4BEnXCo4-WWXqFqd1DRp8BmVofmKlFKRdRhNiJ0z8FU"
+}
+[2026-03-07 23:04:11,226][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 23:04:11,226][rest_client_new.py 49][INFO]: 接口请求方法>>>POST
+[2026-03-07 23:04:11,226][rest_client_new.py 53][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 23:04:11,227][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json"
+}
+[2026-03-07 23:04:11,599][rest_client_new.py 17][INFO]: 接口返回内容>>>
+{
+  "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM1MDA2NTEsImVtYWlsIjpudWxsfQ.LCIq_oto45zuAAnpR8ddd8lnCt27zwC_tfSG6Lv0lLw"
+}
+[2026-03-07 23:08:33,746][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 23:08:33,746][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 23:08:33,746][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 23:08:34,136][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM1MDA5MTQsImVtYWlsIjpudWxsfQ.RwTmb8arWMWmJIatfs6SHrZxLahf778wO0OGjPfXJEs"}
+[2026-03-07 23:08:34,138][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 23:08:34,138][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 23:08:34,138][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM1MDA5MTQsImVtYWlsIjpudWxsfQ.RwTmb8arWMWmJIatfs6SHrZxLahf778wO0OGjPfXJEs"
+}
+[2026-03-07 23:08:34,506][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 16628,
+    "pay_status": "paying",
+    "order_sn": "2026030720561410387881043",
+    "trade_no": null,
+    "pay_time": null,
+    "add_time": "2026-03-07 20:56:14",
+    "alipay_url": "https://openapi-sandbox.dl.alipaydev.com/gateway.do?app_id=9021000123614494&biz_content=%7B%22subject%22%3A%222026030720561410387881043%22%2C%22out_trade_no%22%3A%222026030720561410387881043%22%2C%22total_amount%22%3A26.0%2C%22product_code%22%3A%22FAST_INSTANT_TRADE_PAY%22%7D&charset=utf-8&method=alipay.trade.page.pay&notify_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&return_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&sign_type=RSA2&timestamp=2026-03-07+23%3A08%3A34&version=1.0&sign=Xq6sBbYAvTMlT%2FofHfdf%2FcfuoxCArUDLBVCXEVdPpwMqn6veuRgl%2FB5oaGGFEFf%2F57uAIS6qGH0W1phRyIiAWRuXhMjrlrWuM67GKLiKv5bdaa0x10iSAMFNlo%2FYiOlXaAHMCxYUuNOrgx6Zehluu8PW7Ci9ucgHhCaUS1FwADjd7Sdh5mq2AsewHHQuIOHgCQxARf234wIX%2BB%2Fs4wx5SWtePp%2FlAgtBHEFt6Oc0Ko%2FlnaGv%2Fq7SVM2CCjLUD3LGlnB4EABwwOtNfnmvU7OZ0HzPp1i3zxPD%2FZsXrfk3eKp0oZngC%2FIH0%2FcTF5NOH27SL1pVBFc%2BBkfGDpwBaJy%2Bjg%3D%3D",
+    "post_script": "qqq",
+    "order_mount": 26.0,
+    "address": "北京市北京城区东城区111",
+    "signer_name": "111",
+    "singer_mobile": "111"
+  }
+]
+[2026-03-07 23:09:14,850][rest_client.py 42][INFO]: 接口请求地址>>>http://admin.5istudy.online/login/
+[2026-03-07 23:09:14,850][rest_client.py 43][INFO]: 接口请求方法>>>POST
+[2026-03-07 23:09:14,850][rest_client.py 47][INFO]: 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+[2026-03-07 23:09:15,224][response_util.py 14][INFO]: 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM1MDA5NTUsImVtYWlsIjpudWxsfQ.rnvl-zmM8GdlzT4R_UBL9NMEZhAc9v8kRx9fnwumKXM"}
+[2026-03-07 23:09:15,228][rest_client_new.py 48][INFO]: 接口请求地址>>>http://admin.5istudy.online/orders/
+[2026-03-07 23:09:15,228][rest_client_new.py 49][INFO]: 接口请求方法>>>GET
+[2026-03-07 23:09:15,228][rest_client_new.py 57][INFO]: 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM1MDA5NTUsImVtYWlsIjpudWxsfQ.rnvl-zmM8GdlzT4R_UBL9NMEZhAc9v8kRx9fnwumKXM"
+}
+[2026-03-07 23:09:15,605][rest_client_new.py 17][INFO]: 接口返回内容>>>
+[
+  {
+    "id": 16628,
+    "pay_status": "paying",
+    "order_sn": "2026030720561410387881043",
+    "trade_no": null,
+    "pay_time": null,
+    "add_time": "2026-03-07 20:56:14",
+    "alipay_url": "https://openapi-sandbox.dl.alipaydev.com/gateway.do?app_id=9021000123614494&biz_content=%7B%22subject%22%3A%222026030720561410387881043%22%2C%22out_trade_no%22%3A%222026030720561410387881043%22%2C%22total_amount%22%3A26.0%2C%22product_code%22%3A%22FAST_INSTANT_TRADE_PAY%22%7D&charset=utf-8&method=alipay.trade.page.pay&notify_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&return_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&sign_type=RSA2&timestamp=2026-03-07+23%3A09%3A15&version=1.0&sign=W5tlRhw1byfFfq0UnxPhpBhI5bMGrI9jGuJhZsjVh6jfQmfFR6Ht2ao3r0F3Eep9lQ01ELFxSCIv%2FMx1ePmUhIWICwCTvqVjQ5%2Fj%2ByN3pMoR1feo1NssLOPEG4ZZCbXy4xgwMdLhJV1Ynb4Ngj77QecxgL5t5jeStlddc5Qf4Nmo2GVPqlhzNv4P5wGM5ghP1Ne%2FLJKgft3pmn5ZQ%2FIVakim%2BH6L4jiJ6kV%2FVz9YJisRolXlkF7pdYomMEMRPV%2FadD3eGcV8TJtqqscP6Kq%2BwSB4dL1Ec5uIYRNcWYcvzwG%2B9tyeWythh9WAuOS9A0ir53uXBkXSBtq8y5JSB5o3DA%3D%3D",
+    "post_script": "qqq",
+    "order_mount": 26.0,
+    "address": "北京市北京城区东城区111",
+    "signer_name": "111",
+    "singer_mobile": "111"
+  }
+]
