@@ -29,6 +29,7 @@ class Apiservice:
         #获取extract
         extract = case_info.pop("extract",None)
         res = self.session.do_request(url=url,method=method,headers=headers,**case_info)
+        # 写入yaml
         self.extract.extrect_data(res,extract)
         #断言逻辑
         AssertUtil().validate_response(res,validate)

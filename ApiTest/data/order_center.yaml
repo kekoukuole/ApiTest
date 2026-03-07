@@ -11,7 +11,8 @@ order_list:
       - params:
         validate:
           - length: [ '$..id', 1 ]
-        extract:  '$.[0].id'
+        extract:
+          order_id: '$.[0].id'
 
 
 
