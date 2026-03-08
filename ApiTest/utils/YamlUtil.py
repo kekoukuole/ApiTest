@@ -51,7 +51,8 @@ class YamlUtil:
 
 
 if __name__ == '__main__':
-    data = YamlUtil().extract_case("user_center.yaml","user_login_new")
-    print(data)
+    # data = YamlUtil().extract_case("user_center.yaml","user_login_new")
+    # print(data)
 
-
+    data = {"code":201,"data":{"id":3385,"address": "北京市"}}
+    YamlUtil().write_extra_yaml(data)

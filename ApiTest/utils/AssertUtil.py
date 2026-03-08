@@ -29,7 +29,7 @@ class AssertUtil:
 
     def validate_response(self,response,validate_check):
         """
-        j校验结果
+        校验结果
         :param response:
         :param validate_check:
         :return:

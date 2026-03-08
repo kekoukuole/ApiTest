@@ -1,0 +1,32 @@
+INFO     log:rest_client.py:42 接口请求地址>>>http://admin.5istudy.online/login/
+INFO     log:rest_client.py:43 接口请求方法>>>POST
+INFO     log:rest_client.py:47 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+INFO     log:response_util.py:14 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM1ODY4MTQsImVtYWlsIjpudWxsfQ.rljiEY73y-vjOq-tVslNAJw3KGa1kzzN-6Pbqy4PO2U"}
+INFO     log:rest_client_new.py:48 接口请求地址>>>http://admin.5istudy.online/orders/
+INFO     log:rest_client_new.py:49 接口请求方法>>>GET
+INFO     log:rest_client_new.py:57 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM1ODY4MTQsImVtYWlsIjpudWxsfQ.rljiEY73y-vjOq-tVslNAJw3KGa1kzzN-6Pbqy4PO2U"
+}
+INFO     log:rest_client_new.py:17 接口返回内容>>>
+[
+  {
+    "id": 16628,
+    "pay_status": "paying",
+    "order_sn": "2026030720561410387881043",
+    "trade_no": null,
+    "pay_time": null,
+    "add_time": "2026-03-07 20:56:14",
+    "alipay_url": "https://openapi-sandbox.dl.alipaydev.com/gateway.do?app_id=9021000123614494&biz_content=%7B%22subject%22%3A%222026030720561410387881043%22%2C%22out_trade_no%22%3A%222026030720561410387881043%22%2C%22total_amount%22%3A26.0%2C%22product_code%22%3A%22FAST_INSTANT_TRADE_PAY%22%7D&charset=utf-8&method=alipay.trade.page.pay&notify_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&return_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&sign_type=RSA2&timestamp=2026-03-08+23%3A00%3A14&version=1.0&sign=ITmV7VpyaWjRSFNvnMrmeNUo6%2BSx8Ivr4jNazoUlIpscCMNjd0FkobNHH3TDBX5yfo2DiSXhLKqQkbbk68UafS6ieYm7SkoVOMfea5aw5i1u%2FGla%2Bl4Ln5ZlDcdvGvreO6mlhMpqdkIa7VEKXSppoW0G1XbBOMGukln53djPBVFmvXoRCIkbq0qF7%2FlA%2FMsbcgVSavlxqXOV0e3seYudqZUVM1SxTot2KAa7wfVocgYvwofthOhc1EVtnyfWBTG1xXGjz0%2B643cearkoifiE%2BdehZlSpyK38ZF%2FDVDt7roMa1Nn%2FRockcnVemVx%2BhYlgQgNkxtKuzSvCEhcuWm2RjA%3D%3D",
+    "post_script": "qqq",
+    "order_mount": 26.0,
+    "address": "北京市北京城区东城区111",
+    "signer_name": "111",
+    "singer_mobile": "111"
+  }
+]

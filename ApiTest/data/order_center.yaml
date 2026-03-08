@@ -20,7 +20,7 @@ order_detail:
   #接口的基本信息
   - request_info:
       case_title: 订单列表接口
-      url: /orders/${get_extract_data}/
+      url: /orders/${get_extract_data(order_id)}/
       method: GET
       headers:
         Content-Type: application/json
@@ -28,4 +28,4 @@ order_detail:
       #接口请求参数
       - params:
         validate:
-#          - length: [ '$..id', 1 ]
+          - length: [ '$pay_status', paying ]

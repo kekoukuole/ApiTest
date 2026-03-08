@@ -12,7 +12,7 @@ class Apiservice:
 
     def handle_case(self,data,login_token=None):
         #获取url
-        url = data["request_info"]["url"]
+        url = self.extract.extrect_url(data["request_info"]["url"])
         # 获取method
         method = data["request_info"]["method"]
         # 获取headers
