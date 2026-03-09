@@ -23,11 +23,36 @@ class ExtractUtil:
                 except Exception as e:
                     logger.error(f"变量{key}写入extract.yaml失败，请检查，error={e}")
 
+    def get_extract_data(self,key):
+        """
+        从extract.yaml中获取内容
+        :param key:
+        :return:
+        """
+        try:
+            data = self.yaml_util.read_extract_yaml()
+            return data[key]
+        except Exception as e:
+            logger.error(f"从yaml中根据{key}获取不到内容，error={e}")
+
     def extrect_url(self, url):
         # /orders/${get_extract_data(order_id)}/
-        if "{" in url and "}" in url:
+        if "${" in url and "}" in url:
             return self.process_data(url)
         return url
 
     def process_data(self, data):
-        if
+        """处理函数"""
+        for i in range(data.count("${")):
+            if "${" in data and "}" in data:
+                start_index = data.index("$")
+                end_index = data.index("}")
+                # 获取函数中
+                func_full_name = data[start_index:end_index + 1]
+                # 获取函数名
+                func_name = data[start_index + 2:data.index('(')]
+                # 获取函数中参数
+                func_params = data[data.index('(') + 1: data.index(')')]
+                extract_data = getattr(self, func_name)(*func_params.split(',') if func_params else "")
+                data = data.replace(func_full_name, str(extract_data))
+        return data

@@ -1,0 +1,124 @@
+INFO     log:rest_client.py:42 接口请求地址>>>http://admin.5istudy.online/login/
+INFO     log:rest_client.py:43 接口请求方法>>>POST
+INFO     log:rest_client.py:47 接口请求json参数>>>
+{
+  "username": 17301292171,
+  "password": 123456
+}
+INFO     log:response_util.py:14 接口返回内容>>>{"token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM2NDkzOTYsImVtYWlsIjpudWxsfQ.A7HF1gbelPuW_CTQewHDsZ3wRd8GE7n156Uge5dbthU"}
+INFO     log:rest_client_new.py:48 接口请求地址>>>http://admin.5istudy.online/orders/16628/
+INFO     log:rest_client_new.py:49 接口请求方法>>>GET
+INFO     log:rest_client_new.py:57 接口请求headers参数>>>
+{
+  "Content-Type": "application/json",
+  "Authorization": "JWT eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoxMDM4Nzg4MTAsInVzZXJuYW1lIjoiMTczMDEyOTIxNzEiLCJleHAiOjE3NzM2NDkzOTYsImVtYWlsIjpudWxsfQ.A7HF1gbelPuW_CTQewHDsZ3wRd8GE7n156Uge5dbthU"
+}
+INFO     log:rest_client_new.py:17 接口返回内容>>>
+{
+  "id": 16628,
+  "goods": [
+    {
+      "id": 16535,
+      "goods": {
+        "id": 8,
+        "category": {
+          "id": 7,
+          "sub_cat": [
+            {
+              "id": 8,
+              "sub_cat": [],
+              "add_time": "2019-11-19 13:21:56",
+              "name": "参鲍",
+              "code": "cb",
+              "desc": "",
+              "category_type": 3,
+              "is_tab": false,
+              "parent_category": 7
+            },
+            {
+              "id": 9,
+              "sub_cat": [],
+              "add_time": "2019-11-19 13:21:56",
+              "name": "鱼",
+              "code": "yu",
+              "desc": "",
+              "category_type": 3,
+              "is_tab": false,
+              "parent_category": 7
+            },
+            {
+              "id": 10,
+              "sub_cat": [],
+              "add_time": "2019-11-19 13:21:56",
+              "name": "虾",
+              "code": "xia",
+              "desc": "",
+              "category_type": 3,
+              "is_tab": false,
+              "parent_category": 7
+            },
+            {
+              "id": 11,
+              "sub_cat": [],
+              "add_time": "2019-11-19 13:21:56",
+              "name": "蟹/贝",
+              "code": "xb",
+              "desc": "",
+              "category_type": 3,
+              "is_tab": false,
+              "parent_category": 7
+            }
+          ],
+          "add_time": "2019-11-19 13:21:00",
+          "name": "海鲜水产",
+          "code": "hxsc",
+          "desc": "gio",
+          "category_type": 2,
+          "is_tab": true,
+          "parent_category": 1
+        },
+        "images": [
+          {
+            "image": "http://admin.5istudy.online/media/goods/images/11_P_1448944388277.jpg"
+          },
+          {
+            "image": "http://admin.5istudy.online/media/goods/images/11_P_1448944388034.jpg"
+          },
+          {
+            "image": "http://admin.5istudy.online/media/goods/images/11_P_1448944388201.jpg"
+          }
+        ],
+        "add_time": "2019-11-19 13:22:09",
+        "goods_sn": "null",
+        "name": "澳洲进口120天谷饲牛仔骨4份原味生鲜",
+        "click_num": 0,
+        "sold_num": 0,
+        "fav_num": 0,
+        "goods_num": 0,
+        "market_price": 31.0,
+        "shop_price": 26.0,
+        "goods_brief": "",
+        "goods_desc": "<p><img src=\"/media/goods/images/2_20170719161405_249.jpg\" title=\"\" alt=\"2.jpg\"/></p><p><img src=\"/media/goods/images/2_20170719161414_628.jpg\" title=\"\" alt=\"2.jpg\"/></p><p><img src=\"/media/goods/images/2_20170719161435_381.jpg\" title=\"\" alt=\"2.jpg\"/></p>",
+        "ship_free": true,
+        "goods_front_image": "http://admin.5istudy.online/media/goods/images/11_P_1448944388277.jpg",
+        "is_new": false,
+        "is_hot": false
+      },
+      "goods_num": 1,
+      "add_time": "2026-03-07T20:56:14.297174",
+      "order": 16628
+    }
+  ],
+  "alipay_url": "https://openapi-sandbox.dl.alipaydev.com/gateway.do?app_id=9021000123614494&biz_content=%7B%22subject%22%3A%222026030720561410387881043%22%2C%22out_trade_no%22%3A%222026030720561410387881043%22%2C%22total_amount%22%3A26.0%2C%22product_code%22%3A%22FAST_INSTANT_TRADE_PAY%22%7D&charset=utf-8&method=alipay.trade.page.pay&notify_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&return_url=http%3A%2F%2Fadmin.5istudy.online%2Falipay%2Freturn%2F&sign_type=RSA2&timestamp=2026-03-09+16%3A23%3A17&version=1.0&sign=RhWkGoZZjJWTm61qYX5Wit8W3WgVgc8xBV5JPpC%2BKOOY16b5NtGAMxEp58RkztQC%2BtxlypcGozAImVDeqSa3o3N7n%2FAYpdXdtLKQjYP6FqTYHm9Y2E836wUquOAIKKsvXuzofSZGC4vn%2BsFqYM%2Fi7ahDcoqzyxMT6B%2B4XGv1kwI2mG1LTsE%2FnDT7aSS5rWxA0qacZyKTCghK89t8ynI9SLcLDCVouAICnOVvxxzm%2BO2pvyBYbixt1Wnjaf8q9ez2NkeyR0nOo1KP%2FwbaBiGv5YjSPfoIqI%2BA%2FTFWYKdUa4Z9w0DevlSjGjUK4CND8fUeXmh7jxoW%2Fsr92QP3WKlrFw%3D%3D",
+  "order_sn": "2026030720561410387881043",
+  "trade_no": null,
+  "pay_status": "paying",
+  "post_script": "qqq",
+  "order_mount": 26.0,
+  "pay_time": null,
+  "address": "北京市北京城区东城区111",
+  "signer_name": "111",
+  "singer_mobile": "111",
+  "add_time": "2026-03-07T20:56:14.291785",
+  "user": 103878810
+}

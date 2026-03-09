@@ -28,4 +28,4 @@ order_detail:
       #接口请求参数
       - params:
         validate:
-          - length: [ '$pay_status', paying ]
+          - contains: [ '$.pay_status', paying ]
