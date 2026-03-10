@@ -1,0 +1,1 @@
+{"name": "账号密码登陆", "status": "passed", "start": 1773164035685, "stop": 1773164180747, "uuid": "46a8b9e9-7913-4a25-b701-73c6c9dabd34", "testCaseId": "32c37d2e5d8a064fee6fa07bdf3013cb", "fullName": "testcase.test_login.test_login.TestLogin#test_login", "labels": [{"name": "story", "value": "这是一个用户登陆接口"}]}

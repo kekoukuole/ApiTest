@@ -1,6 +1,6 @@
 login:
   request_info:
-    allure_stroy: 这是一个用户登陆接口
+    allure_story: 这是一个用户登陆接口
     allure_title: 账号密码登陆
     url:  /Admin/Login/login
     method: POST
@@ -10,5 +10,5 @@ login:
     json:
       username: Qsaduser
       password: Qingshan178qwer_
-    validata:
-      - length: ["$.[data][token]",b8]
+    validate:
+      - eq: ["$.data.token","b8e"]

@@ -1,0 +1,9 @@
+INFO     log:request_two.py:36 接口请求地址>>>https://www.qingfeng006gexworli.top/Admin/Login/login
+INFO     log:request_two.py:37 接口请求方法>>>POST
+INFO     log:request_two.py:41 接口请求json参数>>>
+[
+  {
+    "username": "Qsaduser",
+    "password": "Qingshan178qwer_"
+  }
+]
