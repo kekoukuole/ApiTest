@@ -9,7 +9,7 @@ class AssertUtil:
             for check_type, check_value in chek.items():
                 actual_value = self.extract_by_jsonpath(res,check_value[0])
                 expect_value = check_value[1]
-                if check_type in ["length"]:
+                if check_type in ["eq"]:
                     self.contains(actual_value, expect_value)
 
     def extract_by_jsonpath(self,res,extract_expression):

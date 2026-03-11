@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="1b3d8997-1cf6-4489-8fbe-f119350bc054" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/request_two/request_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ApiTest/.idea/ApiTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ApiTest/.idea/ApiTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ApiTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ApiTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ApiTest/core/ApiService.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ApiTest/core/ApiService.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assert_Util/Assertutil.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assert_Util/Assertutil.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/api_first/Api_First.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_first/Api_First.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/settings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config/settings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/read/read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_login/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_login/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/2026-03-11.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/2026-03-11.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/request_two/request_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/request_two/request_two.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yaml_data/login.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/yaml_data/login.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,17 +41,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python 测试.test_login.TestLogin 的 Python 测试.executor": "Debug",
+    "Python 测试.test_login.TestLogin.test_login 的 Python 测试.executor": "Run",
     "Python 测试.testcase.test_login.test_login.TestLogin 的 Python 测试.executor": "Debug",
     "Python 测试.testcase.test_login.test_login.TestLogin.test_login 的 Python 测试.executor": "Debug",
+    "Python.ceshi.executor": "Run",
     "Python.read.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/mac/Documents/ApiTest/ApiTest/xiaogou"
+    "last_opened_file_path": "/Users/macbookpro/Documents/API_test/xiaogou"
   }
 }]]></component>
-  <component name="RunManager" selected="Python 测试.testcase.test_login.test_login.TestLogin 的 Python 测试">
-    <configuration name="read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python 测试.test_login.TestLogin 的 Python 测试">
+    <configuration name="ceshi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="xiaogou" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -59,18 +63,47 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/read" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/read/read.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ceshi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login.TestLogin 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="xiaogou" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/test_login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login.TestLogin.test_login 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="xiaogou" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/test_login" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_login.TestLogin.test_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <configuration name="testcase.test_login.test_login.TestLogin 的 Python 测试" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
@@ -83,7 +116,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;testcase.test_login.test_login.TestLogin&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -99,7 +131,6 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="RUN_TOOL" value="" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;testcase.test_login.test_login.TestLogin.test_login&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
@@ -107,19 +138,22 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python 测试.test_login.TestLogin 的 Python 测试" />
+        <item itemvalue="Python 测试.test_login.TestLogin.test_login 的 Python 测试" />
+        <item itemvalue="Python.ceshi" />
         <item itemvalue="Python 测试.testcase.test_login.test_login.TestLogin 的 Python 测试" />
         <item itemvalue="Python 测试.testcase.test_login.test_login.TestLogin.test_login 的 Python 测试" />
-        <item itemvalue="Python.read" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-f2b7a9f6281b-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.142" />
+        <option value="bundled-python-sdk-14705d77f0bb-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.25659.43" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="1b3d8997-1cf6-4489-8fbe-f119350bc054" name="更改" comment="" />

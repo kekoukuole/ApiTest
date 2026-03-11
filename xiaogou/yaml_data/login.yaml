@@ -10,5 +10,6 @@ login:
     json:
       username: Qsaduser
       password: Qingshan178qwer_
-    validate:
-      - eq: ["$.data.token","b8e"]
+  validate:
+    - eq: ["$.data.token","b8e"]
+    - eq: [ "$.msg","登录成功" ]

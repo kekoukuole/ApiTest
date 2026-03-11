@@ -23,7 +23,7 @@ class RequestTwo:
         elif method == "POST":
             return self.session.post(self.host_url+url,**kwargs)
 
-    def requests_info(self,url,method,**kwargs):
+    def request_info(self,url,method,**kwargs):
         response = self.request(url, method, **kwargs).json()
         logger.info(f"接口返回内容>>>\n{json.dumps(response, indent=2, ensure_ascii=False)}")
         return response
