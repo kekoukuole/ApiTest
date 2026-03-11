@@ -24,8 +24,9 @@ class RequestTwo:
             return self.session.post(self.host_url+url,**kwargs)
 
     def request_info(self,url,method,**kwargs):
-        response = self.request(url, method, **kwargs).json()
-        logger.info(f"接口返回内容>>>\n{json.dumps(response, indent=2, ensure_ascii=False)}")
+        response = self.request(url, method, **kwargs)
+        res = response.json()
+        logger.info(f"接口返回内容>>>\n{json.dumps(res, indent=2, ensure_ascii=False)}")
         return response
 
     def logger(self,url,method,**kwargs):

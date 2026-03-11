@@ -19,4 +19,8 @@ class ApiFirst:
         case_info = data_info["login_data"]["json"]
         validate = data_info["validate"]
         res = self.session.request_info(url=url,method=method,data=case_info)
-        AssertUtil().validate_response(res, validate)
+        if res.status_code == 200:
+            response = res.json()
+            AssertUtil().validate_response(response, validate)
+        else:
+            logger.info("状态码错误,请检查")
