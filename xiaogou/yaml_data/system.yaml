@@ -1,0 +1,15 @@
+system:
+  - request_info:
+      allure_story: 这是一个系统设置接口
+      allure_title: 系统设置获取内容
+      url:  /Admin/Adminback/goodPingShow
+      method: POST
+      headers:
+        Content-Type: application/json
+    case_info:
+      - json:
+          token:  ${token}
+    validata:
+      - eq: ["$.data.type","好评弹窗"]
+      - eq: ["$.msg","请求成功"]
+

@@ -1,10 +1,16 @@
+import pytest
+
 from api_first.Api_First import ApiFirst
 from read.read import base_data
 
 
 
 class TestLogin:
+    @pytest.mark.parametrize("data",base_data.read_yaml()["login"])
+    def test_login(self,data):
+        ApiFirst().request_first(data)
 
-    def test_login(self):
-        yaml_file = base_data.read_yaml()["login"]
-        ApiFirst().request_first(yaml_file)
+
+    @pytest.mark.parametrize("data",base_data.read_yaml()["system"])
+    def test_system(self,data):
+        ApiFirst().data_token(data)
