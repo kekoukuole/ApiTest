@@ -1,0 +1,12 @@
+login:
+  - request_info:
+      allure_story: 这是用户登陆
+      allure_title: 正确的账号密码
+      url:  /auth
+      method: POST
+    case_info:
+      json:
+        username: admin
+        password: password123
+    validate:
+      - eq: ["$.token","feb"]
