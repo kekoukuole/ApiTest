@@ -1,0 +1,11 @@
+[32mINFO    [0m log:resquest_client.py:32 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+[32mINFO    [0m log:resquest_client.py:33 接口请求方法>>>POST
+[32mINFO    [0m log:resquest_client.py:35 接口请求data参数>>>
+{
+  "username": null,
+  "password": "password123"
+}
+[32mINFO    [0m log:resquest_client.py:24 接口返回内容>>>
+{
+  "reason": "Bad credentials"
+}

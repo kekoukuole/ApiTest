@@ -3,9 +3,9 @@
 [32mINFO    [0m log:resquest_client.py:35 接口请求data参数>>>
 {
   "username": "admin",
-  "password": "password123"
+  "password": "password12"
 }
 [32mINFO    [0m log:resquest_client.py:24 接口返回内容>>>
 {
-  "token": "95211a959b8930a"
+  "reason": "Bad credentials"
 }

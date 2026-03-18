@@ -10,3 +10,51 @@ login:
         password: password123
     validate:
       - length: [ "$.token",1 ]
+
+  - request_info:
+      allure_story: 这是用户登陆
+      allure_title: 错误的密码
+      url: /auth
+      method: POST
+    case_info:
+      json:
+        username: admin
+        password: password12
+    validate:
+      - eq: [ "$.reason","Bad credentials" ]
+
+  - request_info:
+      allure_story: 这是用户登陆
+      allure_title: 错误的账号
+      url: /auth
+      method: POST
+    case_info:
+      json:
+        username: admin1
+        password: password123
+    validate:
+      - eq: [ "$.reason","Bad credentials" ]
+
+  - request_info:
+      allure_story: 这是用户登陆
+      allure_title: 账号为空
+      url: /auth
+      method: POST
+    case_info:
+      json:
+        username:
+        password: password123
+    validate:
+      - eq: [ "$.reason","Bad credentials" ]
+
+  - request_info:
+      allure_story: 这是用户登陆
+      allure_title: 密码为空
+      url: /auth
+      method: POST
+    case_info:
+      json:
+        username: admin
+        password:
+    validate:
+      - eq: [ "$.reason","Bad credentials" ]
