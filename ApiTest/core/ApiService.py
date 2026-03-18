@@ -33,4 +33,4 @@ class Apiservice:
         self.extract.extrect_data(res,extract)
         #断言逻辑
         AssertUtil().validate_response(res,validate)
-        return res
+        # return res

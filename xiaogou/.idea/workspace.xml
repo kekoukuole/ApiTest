@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1b3d8997-1cf6-4489-8fbe-f119350bc054" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/../ApiTest/core/ApiService.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ApiTest/core/ApiService.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api_first/Api_First.py" beforeDir="false" afterPath="$PROJECT_DIR$/api_first/Api_First.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/read/read.py" beforeDir="false" afterPath="$PROJECT_DIR$/read/read.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testcase/test_login/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/test_login/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yaml_data/login.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/yaml_data/login.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,24 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python 测试.test_login.TestLogin 的 Python 测试.executor": "Run",
-    "Python 测试.test_login.TestLogin.test_login 的 Python 测试.executor": "Run",
-    "Python 测试.test_login.TestLogin.test_system 的 Python 测试.executor": "Run",
-    "Python 测试.testcase.test_login.test_login.TestLogin 的 Python 测试.executor": "Run",
-    "Python 测试.testcase.test_login.test_login.TestLogin.test_login 的 Python 测试.executor": "Debug",
-    "Python.YamlUtil.executor": "Run",
-    "Python.ceshi.executor": "Run",
-    "Python.read.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/macbookpro/Documents/API_test/xiaogou"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python 测试.test_login.TestLogin 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.test_login.TestLogin.test_login 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.test_login.TestLogin.test_system 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.testcase.test_login.test_login.TestLogin 的 Python 测试.executor&quot;: &quot;Run&quot;,
+    &quot;Python 测试.testcase.test_login.test_login.TestLogin.test_login 的 Python 测试.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.YamlUtil.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ceshi.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/macbookpro/Documents/API_test/xiaogou&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python 测试.test_login.TestLogin.test_system 的 Python 测试">
+}</component>
+  <component name="RunManager" selected="Python 测试.test_login.TestLogin 的 Python 测试">
     <configuration name="YamlUtil" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="xiaogou" />
       <option name="ENV_FILES" value="" />
@@ -146,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python 测试.test_login.TestLogin 的 Python 测试" />
         <item itemvalue="Python 测试.test_login.TestLogin.test_system 的 Python 测试" />
         <item itemvalue="Python.read" />
         <item itemvalue="Python 测试.test_login.TestLogin.test_login 的 Python 测试" />
         <item itemvalue="Python.YamlUtil" />
-        <item itemvalue="Python 测试.test_login.TestLogin 的 Python 测试" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,88 @@
+[2026-03-18 17:25:43,911][resquest_client.py 32][INFO]: 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+[2026-03-18 17:25:43,911][resquest_client.py 33][INFO]: 接口请求方法>>>POST
+[2026-03-18 17:25:43,911][resquest_client.py 35][INFO]: 接口请求data参数>>>
+{
+  "username": "admin",
+  "password": "password123"
+}
+[2026-03-18 17:25:46,562][resquest_client.py 24][INFO]: 接口返回内容>>>
+{
+  "token": "438344547bc4e18"
+}
+[2026-03-18 17:26:22,078][resquest_client.py 32][INFO]: 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+[2026-03-18 17:26:22,079][resquest_client.py 33][INFO]: 接口请求方法>>>POST
+[2026-03-18 17:26:22,079][resquest_client.py 35][INFO]: 接口请求data参数>>>
+{
+  "username": "admin",
+  "password": "password123"
+}
+[2026-03-18 17:26:24,310][resquest_client.py 24][INFO]: 接口返回内容>>>
+{
+  "token": "bd2befb72a09063"
+}
+[2026-03-18 17:33:52,304][resquest_client.py 32][INFO]: 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+[2026-03-18 17:33:52,305][resquest_client.py 33][INFO]: 接口请求方法>>>POST
+[2026-03-18 17:33:52,305][resquest_client.py 35][INFO]: 接口请求data参数>>>
+{
+  "username": "admin",
+  "password": "password123"
+}
+[2026-03-18 17:33:54,388][resquest_client.py 24][INFO]: 接口返回内容>>>
+{
+  "token": "d4b428c0019190a"
+}
+[2026-03-18 17:35:37,488][resquest_client.py 32][INFO]: 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+[2026-03-18 17:35:37,489][resquest_client.py 33][INFO]: 接口请求方法>>>POST
+[2026-03-18 17:35:37,489][resquest_client.py 35][INFO]: 接口请求data参数>>>
+{
+  "username": "admin",
+  "password": "password123"
+}
+[2026-03-18 17:35:40,228][resquest_client.py 24][INFO]: 接口返回内容>>>
+{
+  "token": "408145c10ce4206"
+}
+[2026-03-18 18:00:58,610][resquest_client.py 32][INFO]: 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+[2026-03-18 18:00:58,610][resquest_client.py 33][INFO]: 接口请求方法>>>POST
+[2026-03-18 18:00:58,610][resquest_client.py 35][INFO]: 接口请求data参数>>>
+{
+  "username": "admin",
+  "password": "password123"
+}
+[2026-03-18 18:01:00,383][resquest_client.py 24][INFO]: 接口返回内容>>>
+{
+  "token": "ec7cbbe86b61c18"
+}
+[2026-03-18 18:03:36,818][resquest_client.py 32][INFO]: 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+[2026-03-18 18:03:36,819][resquest_client.py 33][INFO]: 接口请求方法>>>POST
+[2026-03-18 18:03:36,819][resquest_client.py 35][INFO]: 接口请求data参数>>>
+{
+  "username": "admin",
+  "password": "password123"
+}
+[2026-03-18 18:03:38,670][resquest_client.py 24][INFO]: 接口返回内容>>>
+{
+  "token": "558fe4c3af9488b"
+}
+[2026-03-18 18:06:25,986][resquest_client.py 32][INFO]: 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+[2026-03-18 18:06:25,987][resquest_client.py 33][INFO]: 接口请求方法>>>POST
+[2026-03-18 18:06:25,988][resquest_client.py 35][INFO]: 接口请求data参数>>>
+{
+  "username": "admin",
+  "password": "password123"
+}
+[2026-03-18 18:06:28,257][resquest_client.py 24][INFO]: 接口返回内容>>>
+{
+  "token": "cda5db780827dbc"
+}
+[2026-03-18 18:09:54,317][resquest_client.py 32][INFO]: 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+[2026-03-18 18:09:54,318][resquest_client.py 33][INFO]: 接口请求方法>>>POST
+[2026-03-18 18:09:54,318][resquest_client.py 35][INFO]: 接口请求data参数>>>
+{
+  "username": "admin",
+  "password": "password123"
+}
+[2026-03-18 18:09:56,169][resquest_client.py 24][INFO]: 接口返回内容>>>
+{
+  "token": "95211a959b8930a"
+}

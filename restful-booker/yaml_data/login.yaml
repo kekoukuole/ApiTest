@@ -9,4 +9,4 @@ login:
         username: admin
         password: password123
     validate:
-      - eq: ["$.token","feb"]
+      - length: [ "$.token",1 ]
