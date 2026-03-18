@@ -24,7 +24,7 @@ class Apiservice:
         validate = data["validate"]
         response = self.session.requests(url = url,method=method,data=json_data)
         res = response.json()
-        if response.status_code == 200 or 201:
+        if response.status_code in [200, 201]:
             AssertUtil().validate_response(res,validate)
         else:
             logger.info("状态码错误")

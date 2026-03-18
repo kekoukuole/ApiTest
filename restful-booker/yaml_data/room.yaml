@@ -1,0 +1,10 @@
+all_room_information:
+  - request_info:
+      allure_story: 这是所有房间信息
+      allure_title: 拿到所有房间
+      url:  /booking
+      method: GET
+    case_info:
+      json: null
+    validate:
+      - length_ge: [ "$[*].bookingid",1 ]

@@ -1,0 +1,2 @@
+INFO     log:resquest_client.py:34 接口请求地址>>>https://restful-booker.herokuapp.com/room
+INFO     log:resquest_client.py:35 接口请求方法>>>GET

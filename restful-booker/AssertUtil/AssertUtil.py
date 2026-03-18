@@ -15,6 +15,9 @@ class AssertUtil:
                     self.contains(actual_results,expected_results)
                 elif chek_type in ["length"]:
                     self.length(actual_results,expected_results)
+                elif chek_type in ["length_ge"]:
+                    self.length_ge(actual_results,expected_results)
+
 
 
     def validate_jsonpath(self,res,chek_value):
@@ -33,3 +36,8 @@ class AssertUtil:
         if not isinstance(actual_results,list):
             actual_results = [actual_results]
         assert len(actual_results) == expected_results
+
+    def length_ge(self, actual_results, expected_results):
+        if not isinstance(actual_results,list):
+            actual_results = [actual_results]
+        assert len(actual_results) >= expected_results

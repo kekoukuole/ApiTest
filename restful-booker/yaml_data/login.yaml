@@ -42,7 +42,7 @@ login:
       method: POST
     case_info:
       json:
-        username:
+        username: null
         password: password123
     validate:
       - eq: [ "$.reason","Bad credentials" ]
@@ -55,6 +55,6 @@ login:
     case_info:
       json:
         username: admin
-        password:
+        password: null
     validate:
       - eq: [ "$.reason","Bad credentials" ]

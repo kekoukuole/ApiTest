@@ -1,0 +1,7 @@
+INFO     log:resquest_client.py:34 接口请求地址>>>https://restful-booker.herokuapp.com/auth
+INFO     log:resquest_client.py:35 接口请求方法>>>POST
+INFO     log:resquest_client.py:37 接口请求data参数>>>
+{
+  "username": "admin",
+  "password": null
+}

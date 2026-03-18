@@ -1,0 +1,3 @@
+INFO     log:resquest_client.py:37 接口请求地址>>>https://restful-booker.herokuapp.com/room
+INFO     log:resquest_client.py:38 接口请求方法>>>GET
+ERROR    log:resquest_client.py:29 解析接口响应失败：Expecting value: line 1 column 1 (char 0)
